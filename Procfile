@@ -1,1 +1,1 @@
-worker: python GermanA1.py
+python3 GermanA1.py
