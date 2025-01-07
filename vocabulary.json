@@ -1,0 +1,5558 @@
+[
+    {
+        "German": "die Ansage, -n",
+        "Translation": "announcement",
+        "Example": "Hören Sie auf die Ansagen.",
+        "ExampleTranslation": "Listen to the announcements."
+    },
+    {
+        "German": "der Anschluss",
+        "Translation": "connection",
+        "Example": "In Mannheim haben Sie Anschluss nach Saarbrücken.",
+        "ExampleTranslation": "In Mannheim you have a connection to Saarbrücken."
+    },
+    {
+        "German": "der Anschluss",
+        "Translation": "connection",
+        "Example": "Ist das die Anmeldung für einen Telefonanschluss?",
+        "ExampleTranslation": "Is that the application for a telephone connection?"
+    },
+    {
+        "German": "an sein",
+        "Translation": "to be (switched) on",
+        "Example": "Heute Nacht war das Licht an.",
+        "ExampleTranslation": "The light was on tonight."
+    },
+    {
+        "German": "antworten",
+        "Translation": "to answer",
+        "Example": "Er antwortet nicht.",
+        "ExampleTranslation": "He isn’t answering."
+    },
+    {
+        "German": "die Antwort, -en",
+        "Translation": "answer",
+        "Example": "Er gibt leider keine Antwort.",
+        "ExampleTranslation": "Unfortunately he isn't giving an answer."
+    },
+    {
+        "German": "die Anzeige, -n",
+        "Translation": "advert",
+        "Example": "Ich habe Ihre Anzeige in der Zeitung gelesen.",
+        "ExampleTranslation": "I read your advert in the newspaper."
+    },
+    {
+        "German": "(sich) anziehen",
+        "Translation": "to get dressed",
+        "Example": "Ich muss mich noch anziehen.",
+        "ExampleTranslation": "I still need to get dressed."
+    },
+    {
+        "German": "das Apartment, -s",
+        "Translation": "apartment",
+        "Example": "Wir haben ein Apartment gemietet.",
+        "ExampleTranslation": "We rented an apartment."
+    },
+    {
+        "German": "der Apfel, -Ä",
+        "Translation": "apple",
+        "Example": "Ein Pfund Äpfel bitte.",
+        "ExampleTranslation": "One pound of apples, please."
+    },
+    {
+        "German": "der Appetit",
+        "Translation": "…",
+        "Example": "Guten Appetit!",
+        "ExampleTranslation": "Bon appetit!"
+    },
+    {
+        "German": "arbeiten",
+        "Translation": "to work",
+        "Example": "Wo arbeiten Sie?",
+        "ExampleTranslation": "Where do you work?"
+    },
+    {
+        "German": "die Arbeit, -en",
+        "Translation": "work",
+        "Example": "Mein Bruder sucht Arbeit.",
+        "ExampleTranslation": "My brother is looking for work."
+    },
+    {
+        "German": "arbeitslos",
+        "Translation": "unemployed",
+        "Example": "Es gibt bei uns viele Leute, die schon lange arbeitslos sind.",
+        "ExampleTranslation": "We have a lot of people who have been unemployed for a long time."
+    },
+    {
+        "German": "der Arbeitsplatz, -ä, e",
+        "Translation": "workplace",
+        "Example": "An meinem Arbeitsplatz fehlt ein Drucker.",
+        "ExampleTranslation": "There is no printer at my workplace."
+    },
+    {
+        "German": "der Arm, -e",
+        "Translation": "arm",
+        "Example": "Mein Arm tut weh.",
+        "ExampleTranslation": "My arm hurts."
+    },
+    {
+        "German": "der Arzt, -Ä, e",
+        "Translation": "doctor",
+        "Example": "Morgen habe ich einen Termin bei meiner Ärztin.",
+        "ExampleTranslation": "Tomorrow I have an appointment with my doctor."
+    },
+    {
+        "German": "auch",
+        "Translation": "also",
+        "Example": "Ich bin auch Spanier.",
+        "ExampleTranslation": "I am also Spanish."
+    },
+    {
+        "German": "auf",
+        "Translation": "on",
+        "Example": "Die Kinder spielen auf der Straße.",
+        "ExampleTranslation": "The children play on the street."
+    },
+    {
+        "German": "auf",
+        "Translation": "until",
+        "Example": "Auf Wiedersehen.",
+        "ExampleTranslation": "goodbye (in person)"
+    },
+    {
+        "German": "auf",
+        "Translation": "in",
+        "Example": "Wie heißt das auf Deutsch?",
+        "ExampleTranslation": "What’s that called in German?"
+    },
+    {
+        "German": "die Aufgabe, -n",
+        "Translation": "task",
+        "Example": "Das ist eine schwere Aufgabe.",
+        "ExampleTranslation": "That is a difficult task."
+    },
+    {
+        "German": "aufhören",
+        "Translation": "to end",
+        "Example": "Der Kurs hört in einer Woche auf.",
+        "ExampleTranslation": "The course ends in a week."
+    },
+    {
+        "German": "aufhören",
+        "Translation": "to end",
+        "Example": "Hier hört die Bahnhofstraße auf.",
+        "ExampleTranslation": "Bahnhofstraße ends here."
+    },
+    {
+        "German": "auf sein",
+        "Translation": "to be open",
+        "Example": "Du brauchst den Schlüssel nicht. Die Wohnung ist auf.",
+        "ExampleTranslation": "You don’t need the key. The flat is open."
+    },
+    {
+        "German": "aufstehen",
+        "Translation": "to get up",
+        "Example": "Ich muss immer um vier Uhr aufstehen.",
+        "ExampleTranslation": "I always need to get up at 4 am."
+    },
+    {
+        "German": "aufstehen",
+        "Translation": "to get up",
+        "Example": "Soll ich aufstehen?",
+        "ExampleTranslation": "Should I get up?"
+    },
+    {
+        "German": "der Aufzug, -ü, e",
+        "Translation": "lift",
+        "Example": "In diesem Haus gibt es keinen Aufzug.",
+        "ExampleTranslation": "There is no lift in this building."
+    },
+    {
+        "German": "das Auge, -n",
+        "Translation": "eye",
+        "Example": "Er hat blaue Augen.",
+        "ExampleTranslation": "He has blue eyes."
+    },
+    {
+        "German": "aus",
+        "Translation": "from",
+        "Example": "Er kommt aus Brasilien.",
+        "ExampleTranslation": "He comes from Brazil."
+    },
+    {
+        "German": "der Ausflug",
+        "Translation": "excursion",
+        "Example": "Morgen machen wir einen Ausflug nach Heidelberg.",
+        "ExampleTranslation": "Tomorrow we are going on an excursion to Heidelberg."
+    },
+    {
+        "German": "ausfüllen",
+        "Translation": "to fill out",
+        "Example": "Füllen Sie bitte dieses Formular aus.",
+        "ExampleTranslation": "Please fill out this form."
+    },
+    {
+        "German": "der Ausgang",
+        "Translation": "exit",
+        "Example": "Wo ist der Ausgang?",
+        "ExampleTranslation": "Where is the exit?"
+    },
+    {
+        "German": "die Auskunft, -ü, e",
+        "Translation": "information/details",
+        "Example": "Können Sie mir eine Auskunft geben?",
+        "ExampleTranslation": "Can you give me some information?"
+    },
+    {
+        "German": "das Ausland",
+        "Translation": "abroad/overseas",
+        "Example": "Fahren Sie ins Ausland?",
+        "ExampleTranslation": "Do you travel abroad?"
+    },
+    {
+        "German": "der Ausländer, -",
+        "Translation": "foreigner",
+        "Example": "Sind Sie Ausländerin?",
+        "ExampleTranslation": "Are you a foreigner?"
+    },
+    {
+        "German": "ausländisch",
+        "Translation": "foreign",
+        "Example": "Leider habe ich nur ausländisches Geld.",
+        "ExampleTranslation": "Unfortunately I only have foreign money."
+    },
+    {
+        "German": "ausmachen",
+        "Translation": "to switch off",
+        "Example": "Mach bitte das Licht aus!",
+        "ExampleTranslation": "Please switch off the light!"
+    },
+    {
+        "German": "die Aussage, -n",
+        "Translation": "statement",
+        "Example": "Ist die Aussage richtig oder falsch?",
+        "ExampleTranslation": "Is the statement true or false?"
+    },
+    {
+        "German": "aussehen",
+        "Translation": "to look",
+        "Example": "Das sieht schön aus.",
+        "ExampleTranslation": "That looks beautiful."
+    },
+    {
+        "German": "aus sein",
+        "Translation": "to be (switched) off",
+        "Example": "Das Licht ist aus.",
+        "ExampleTranslation": "The light is off."
+    },
+    {
+        "German": "aus sein",
+        "Translation": "to be out",
+        "Example": "Die Schule ist aus.",
+        "ExampleTranslation": "School is out."
+    },
+    {
+        "German": "aussteigen",
+        "Translation": "to alight",
+        "Example": "Wo muss ich aussteigen?",
+        "ExampleTranslation": "Where do I need to alight?"
+    },
+    {
+        "German": "der Ausweis",
+        "Translation": "identity card",
+        "Example": "Hier ist mein Ausweis.",
+        "ExampleTranslation": "Here is my identity card."
+    },
+    {
+        "German": "ausziehen",
+        "Translation": "to take off",
+        "Example": "Zieh die Schuhe aus, bitte!",
+        "ExampleTranslation": "Please take off your shoes!"
+    },
+    {
+        "German": "sich ausziehen",
+        "Translation": "to get undressed",
+        "Example": "Ich ziehe mich aus.",
+        "ExampleTranslation": "I get undressed."
+    },
+    {
+        "German": "das Auto, -s",
+        "Translation": "car",
+        "Example": "Er kommt mit dem Auto.",
+        "ExampleTranslation": "He’s coming by car."
+    },
+    {
+        "German": "die Autobahn, -en",
+        "Translation": "motorway",
+        "Example": "Wo geht‘s hier bitte zur Autobahn?",
+        "ExampleTranslation": "How do I get to the motorway?"
+    },
+    {
+        "German": "der Automat",
+        "Translation": "machine",
+        "Example": "Die Fahrkarten gibt es nur am Automaten.",
+        "ExampleTranslation": "Tickets are only available from the machine."
+    },
+    {
+        "German": "automatisch",
+        "Translation": "automatic",
+        "Example": "Du musst nichts machen. Das geht automatisch.",
+        "ExampleTranslation": "You don’t need to do anything. It's automatic."
+    },
+    {
+        "German": "das Baby, -s",
+        "Translation": "baby",
+        "Example": "Mein Kind ist noch ein Baby.",
+        "ExampleTranslation": "My child is still a baby."
+    },
+    {
+        "German": "die Bäckerei",
+        "Translation": "bakery",
+        "Example": "Ich geh mal schnell zur Bäckerei.",
+        "ExampleTranslation": "I’m just popping to the bakery."
+    },
+    {
+        "German": "das Bad",
+        "Translation": "bathroom",
+        "Example": "Wir haben kein großes Bad.",
+        "ExampleTranslation": "We don’t have a large bathroom."
+    },
+    {
+        "German": "baden",
+        "Translation": "to bathe",
+        "Example": "Ich bade nicht so gern, ich dusche lieber.",
+        "ExampleTranslation": "I don’t like bathing so much, I prefer to shower."
+    },
+    {
+        "German": "die Bahn",
+        "Translation": "train",
+        "Example": "Wir fahren lieber mit der Bahn.",
+        "ExampleTranslation": "We prefer to travel by train."
+    },
+    {
+        "German": "die Bahn",
+        "Translation": "train",
+        "Example": "Ich nehme die nächste Bahn.",
+        "ExampleTranslation": "I’ll take the next train."
+    },
+    {
+        "German": "der Bahnhof",
+        "Translation": "train station",
+        "Example": "Komme ich hier zum Bahnhof?",
+        "ExampleTranslation": "Is this the way to the train station?"
+    },
+    {
+        "German": "der Bahnsteig",
+        "Translation": "platform",
+        "Example": "Auf welchem Bahnsteig fährt der Zug?",
+        "ExampleTranslation": "From which platform does the train depart?"
+    },
+    {
+        "German": "bald",
+        "Translation": "soon",
+        "Example": "Ich komme bald.",
+        "ExampleTranslation": "I’m coming soon."
+    },
+    {
+        "German": "der Balkon",
+        "Translation": "balcony",
+        "Example": "Die Wohnung hat auch einen kleinen Balkon.",
+        "ExampleTranslation": "The flat also has a small balcony."
+    },
+    {
+        "German": "die Banane, -n",
+        "Translation": "banana",
+        "Example": "Drei Bananen, bitte!",
+        "ExampleTranslation": "Three bananas, please!"
+    },
+    {
+        "German": "die Bank",
+        "Translation": "bank",
+        "Example": "Die Bank schließt schon um vier Uhr.",
+        "ExampleTranslation": "The bank closes at 4 pm already."
+    },
+    {
+        "German": "die Bank",
+        "Translation": "bench",
+        "Example": "Er sitzt im Park auf einer Bank und liest.",
+        "ExampleTranslation": "He’s sits in the park on a bench and reads."
+    },
+    {
+        "German": "bar",
+        "Translation": "cash",
+        "Example": "Muss ich bar zahlen oder geht‘s auch mit Karte?",
+        "ExampleTranslation": "Do I have to pay in cash, or can I also pay by card?"
+    },
+    {
+        "German": "der Bauch",
+        "Translation": "stomach",
+        "Example": "Seit gestern tut mir der Bauch weh.",
+        "ExampleTranslation": "My stomach has been hurting since yesterday."
+    },
+    {
+        "German": "der Baum, -ä, e",
+        "Translation": "tree",
+        "Example": "Vorsicht, fahr nicht an den Baum!",
+        "ExampleTranslation": "Careful, don’t drive into the tree!"
+    },
+    {
+        "German": "der Beamte, -n",
+        "Translation": "official",
+        "Example": "Fragen Sie die Beamtin an Schalter acht!",
+        "ExampleTranslation": "Ask the official at counter eight!"
+    },
+    {
+        "German": "bedeuten",
+        "Translation": "to mean",
+        "Example": "Was bedeutet das Wort?",
+        "ExampleTranslation": "What does that word mean?"
+    },
+    {
+        "German": "beginnen",
+        "Translation": "to begin",
+        "Example": "Das Spiel beginnt um 15.30 Uhr.",
+        "ExampleTranslation": "The game begins at 3:30 pm."
+    },
+    {
+        "German": "bei",
+        "Translation": "next to",
+        "Example": "Offenbach liegt bei Frankfurt.",
+        "ExampleTranslation": "Offenbach is next to Frankfurt."
+    },
+    {
+        "German": "bei",
+        "Translation": "at",
+        "Example": "Ich wohne bei meinen Eltern.",
+        "ExampleTranslation": "I live at my parents’ place."
+    },
+    {
+        "German": "bei uns",
+        "Translation": "here / where we are",
+        "Example": "Bei uns regnet es heute.",
+        "ExampleTranslation": "It is raining here today."
+    },
+    {
+        "German": "bei",
+        "Translation": "for",
+        "Example": "Er arbeitet bei der Polizei.",
+        "ExampleTranslation": "He works for the police."
+    },
+    {
+        "German": "beide",
+        "Translation": "both",
+        "Example": "Beide Eltern arbeiten.",
+        "ExampleTranslation": "Both parents work."
+    },
+    {
+        "German": "beide",
+        "Translation": "both",
+        "Example": "Wir kommen beide.",
+        "ExampleTranslation": "We are both coming."
+    },
+    {
+        "German": "das Bein, -e",
+        "Translation": "leg",
+        "Example": "Mein rechtes Bein tut weh.",
+        "ExampleTranslation": "My right leg hurts."
+    },
+    {
+        "German": "das Beispiel, -e",
+        "Translation": "example",
+        "Example": "Kannst du mir ein Beispiel sagen?",
+        "ExampleTranslation": "Can you give me an example?"
+    },
+    {
+        "German": "zum Beispiel/z. B.",
+        "Translation": "for example",
+        "Example": "Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier.",
+        "ExampleTranslation": "Many of my relatives, for example, both of my brothers, also work here."
+    },
+    {
+        "German": "bekannt",
+        "Translation": "well known",
+        "Example": "Picasso ist sehr bekannt.",
+        "ExampleTranslation": "Picasso is very well known."
+    },
+    {
+        "German": "der/die Bekannte, -n",
+        "Translation": "acquaintance",
+        "Example": "Ein Bekannter von mir heißt Klaus.",
+        "ExampleTranslation": "An acquaintance of mine is called Klaus."
+    },
+    {
+        "German": "bekommen",
+        "Translation": "to receive",
+        "Example": "Haben Sie meinen Brief bekommen?",
+        "ExampleTranslation": "Did you receive my letter?"
+    },
+    {
+        "German": "bekommen",
+        "Translation": "to have",
+        "Example": "Was bekommen Sie?",
+        "ExampleTranslation": "What will you have?"
+    },
+    {
+        "German": "bekommen",
+        "Translation": "to get",
+        "Example": "Dieses Medikament bekommen Sie in der Apotheke.",
+        "ExampleTranslation": "You can get this medicine in a pharmacy."
+    },
+    {
+        "German": "benutzen",
+        "Translation": "to use",
+        "Example": "Die Aufzüge bitte nicht benutzen!",
+        "ExampleTranslation": "Please don’t use the lifts!"
+    },
+    {
+        "German": "der Beruf, -e",
+        "Translation": "profession",
+        "Example": "Was sind Sie von Beruf?",
+        "ExampleTranslation": "What is your profession?"
+    },
+    {
+        "German": "der Beruf, -e",
+        "Translation": "occupation",
+        "Example": "Was ist Ihr Beruf?",
+        "ExampleTranslation": "What is your occupation?"
+    },
+    {
+        "German": "besetzt",
+        "Translation": "busy",
+        "Example": "Die Nummer ist immer besetzt.",
+        "ExampleTranslation": "The number is always busy."
+    },
+    {
+        "German": "besetzt",
+        "Translation": "taken",
+        "Example": "Der Platz ist besetzt.",
+        "ExampleTranslation": "The seat is taken."
+    },
+    {
+        "German": "besichtigen",
+        "Translation": "to visit",
+        "Example": "Ich möchte gern den Dom besichtigen.",
+        "ExampleTranslation": "I would like to visit the cathedral."
+    },
+    {
+        "German": "besser",
+        "Translation": "better",
+        "Example": "Es geht mir schon besser.",
+        "ExampleTranslation": "I'm already feeling better."
+    },
+    {
+        "German": "best-",
+        "Translation": "best",
+        "Example": "Am besten treffen wir uns morgen.",
+        "ExampleTranslation": "It's best that we meet tomorrow."
+    },
+    {
+        "German": "bestellen",
+        "Translation": "to order",
+        "Example": "Wir möchten bestellen, bitte.",
+        "ExampleTranslation": "We would like to order, please."
+    },
+    {
+        "German": "bestellen",
+        "Translation": "to order",
+        "Example": "Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?",
+        "ExampleTranslation": "We don’t have this book, should we order it for you?"
+    },
+    {
+        "German": "besuchen",
+        "Translation": "to visit",
+        "Example": "Darf ich dich besuchen?",
+        "ExampleTranslation": "May I visit you?"
+    },
+    {
+        "German": "das Bett, -en",
+        "Translation": "bed",
+        "Example": "Wir brauchen noch ein Kinderbett.",
+        "ExampleTranslation": "We need another children’s bed."
+    },
+    {
+        "German": "bezahlen",
+        "Translation": "to pay",
+        "Example": "Wo muss ich bezahlen?",
+        "ExampleTranslation": "Where do I need to pay?"
+    },
+    {
+        "German": "das Bier",
+        "Translation": "beer",
+        "Example": "Noch ein Bier bitte.",
+        "ExampleTranslation": "Another beer, please."
+    },
+    {
+        "German": "das Bild, -er",
+        "Translation": "picture",
+        "Example": "Hast du ein Bild von deinem Sohn?",
+        "ExampleTranslation": "Do you have a picture of your son?"
+    },
+    {
+        "German": "billig",
+        "Translation": "cheap",
+        "Example": "Die Jacke kostet nur 10 Euro! Die ist aber billig!",
+        "ExampleTranslation": "The jacket only costs 10 euros! That’s cheap!"
+    },
+    {
+        "German": "die Birne, -n",
+        "Translation": "pear",
+        "Example": "Ein Kilo Birnen, bitte!",
+        "ExampleTranslation": "One kilogram of pears, please!"
+    },
+    {
+        "German": "bis",
+        "Translation": "to (as far as)",
+        "Example": "Ich fahre nur bis Stuttgart.",
+        "ExampleTranslation": "I’m only travelling to Stuttgart."
+    },
+    {
+        "German": "bis",
+        "Translation": "until",
+        "Example": "Ich warte bis morgen.",
+        "ExampleTranslation": "I will wait until tomorrow."
+    },
+    {
+        "German": "bisschen",
+        "Translation": "(a) little",
+        "Example": "Ich spreche Englisch, Französisch und ein bisschen Deutsch.",
+        "ExampleTranslation": "I speak English, French, and a little German."
+    },
+    {
+        "German": "bitte",
+        "Translation": "please",
+        "Example": "Eine Tasse Kaffee, bitte!",
+        "ExampleTranslation": "A cup of coffee, please!"
+    },
+    {
+        "German": "bitte",
+        "Translation": "please",
+        "Example": "Sprechen Sie bitte leise!",
+        "ExampleTranslation": "Please speak softly!"
+    },
+    {
+        "German": "die Bitte, -n",
+        "Translation": "request",
+        "Example": "Ich habe noch eine Bitte.",
+        "ExampleTranslation": "I have one more request."
+    },
+    {
+        "German": "bitten",
+        "Translation": "to ask",
+        "Example": "Darf ich Sie um etwas bitten?",
+        "ExampleTranslation": "May I ask something of you?"
+    },
+    {
+        "German": "bitter",
+        "Translation": "bitter",
+        "Example": "Der Kaffee schmeckt bitter.",
+        "ExampleTranslation": "The coffee tastes bitter."
+    },
+    {
+        "German": "bleiben",
+        "Translation": "to stay",
+        "Example": "Ich bleibe heute zu Hause.",
+        "ExampleTranslation": "I'm staying home today."
+    },
+    {
+        "German": "bleiben",
+        "Translation": "to stay",
+        "Example": "Wir bleiben nur bis morgen.",
+        "ExampleTranslation": "We are only staying until tomorrow."
+    },
+    {
+        "German": "der Bleistift, -e",
+        "Translation": "pencil",
+        "Example": "Hast du einen Bleistift?",
+        "ExampleTranslation": "Do you have a pencil?"
+    },
+    {
+        "German": "der Blick",
+        "Translation": "view",
+        "Example": "Von diesem Hotel hat man einen guten Blick auf den Rhein.",
+        "ExampleTranslation": "From this hotel you have a good view of the Rhine."
+    },
+    {
+        "German": "die Blume, -n",
+        "Translation": "flower",
+        "Example": "Gefallen dir die Blumen?",
+        "ExampleTranslation": "Do you like the flowers?"
+    },
+    {
+        "German": "der Bogen",
+        "Translation": "sheet",
+        "Example": "Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.",
+        "ExampleTranslation": "Write your solutions on the answer sheet."
+    },
+    {
+        "German": "böse",
+        "Translation": "angry",
+        "Example": "Sie ist böse auf mich.",
+        "ExampleTranslation": "She is angry with me."
+    },
+    {
+        "German": "brauchen",
+        "Translation": "to need",
+        "Example": "Brauchst du die Zeitung noch?",
+        "ExampleTranslation": "Do you still need the newspaper?"
+    },
+    {
+        "German": "breit",
+        "Translation": "wide",
+        "Example": "Wie breit ist der Schrank?",
+        "ExampleTranslation": "How wide is the cupboard?"
+    },
+    {
+        "German": "der Brief, -e",
+        "Translation": "letter",
+        "Example": "Haben Sie einen Brief für mich?",
+        "ExampleTranslation": "Do you have a letter for me?"
+    },
+    {
+        "German": "die Briefmarke, -n",
+        "Translation": "(postage) stamp",
+        "Example": "Kaufst du bitte Briefmarken bei der Post.",
+        "ExampleTranslation": "Could you please buy stamps at the post office."
+    },
+    {
+        "German": "bringen",
+        "Translation": "to bring",
+        "Example": "Bringen Sie mir bitte noch einen Kaffee!",
+        "ExampleTranslation": "Please bring me another coffee!"
+    },
+    {
+        "German": "bringen",
+        "Translation": "to take",
+        "Example": "Wir müssen ihn zum Arzt bringen.",
+        "ExampleTranslation": "We need to take him to the doctor."
+    },
+    {
+        "German": "das Brot, -e",
+        "Translation": "bread",
+        "Example": "Haben Sie auch Weißbrot?",
+        "ExampleTranslation": "Do you have white bread, too?"
+    },
+    {
+        "German": "das Brot, -e",
+        "Translation": "bread roll",
+        "Example": "Nimm noch ein paar Brote für die Fahrt mit.",
+        "ExampleTranslation": "Take another couple of bread rolls for the journey."
+    },
+    {
+        "German": "das Brötchen, –",
+        "Translation": "bread roll",
+        "Example": "Möchtest du Brötchen zum Frühstück?",
+        "ExampleTranslation": "Would you like bread rolls for breakfast?"
+    },
+    {
+        "German": "der Bruder, -ü",
+        "Translation": "brother",
+        "Example": "Sein Bruder arbeitet auch hier.",
+        "ExampleTranslation": "His brother also works here."
+    },
+    {
+        "German": "das Buch, -ü, er",
+        "Translation": "book",
+        "Example": "Gute Bücher sind oft sehr teuer.",
+        "ExampleTranslation": "Good books are often very expensive."
+    },
+    {
+        "German": "das Wörterbuch, -ü, er",
+        "Translation": "dictionary",
+        "Example": "In diesem Wörterbuch finden Sie mehr als 20.000 Wörter.",
+        "ExampleTranslation": "You will find more than 20,000 words in this dictionary."
+    },
+    {
+        "German": "der Buchstabe, -n",
+        "Translation": "letter (character)",
+        "Example": "Diesen Buchstaben gibt es in meiner Sprache nicht.",
+        "ExampleTranslation": "We don't have this letter in my language."
+    },
+    {
+        "German": "buchstabieren",
+        "Translation": "to spell",
+        "Example": "Bitte buchstabieren Sie Ihren Namen.",
+        "ExampleTranslation": "Please spell your name."
+    },
+    {
+        "German": "der Bus, -se",
+        "Translation": "bus",
+        "Example": "Wann kommt der nächste Bus?",
+        "ExampleTranslation": "When does the next bus arrive?"
+    },
+    {
+        "German": "die Butter",
+        "Translation": "butter",
+        "Example": "Für mich bitte ein Brötchen mit Butter und Käse.",
+        "ExampleTranslation": "A bread roll with butter and cheese for me, please."
+    },
+    {
+        "German": "das Café, -s",
+        "Translation": "cafe",
+        "Example": "Sollen wir uns im Café treffen?",
+        "ExampleTranslation": "Should we meet at the cafe?"
+    },
+    {
+        "German": "die CD, -s",
+        "Translation": "CD",
+        "Example": "Bring bitte deine Lieblings-CD mit.",
+        "ExampleTranslation": "Please bring your favourite CD with you."
+    },
+    {
+        "German": "der Chef",
+        "Translation": "boss",
+        "Example": "Wir haben eine neue Chefin.",
+        "ExampleTranslation": "We have a new boss."
+    },
+    {
+        "German": "circa/ca.",
+        "Translation": "approximately",
+        "Example": "Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.",
+        "ExampleTranslation": "From Mainz to Frankfurt it is approximately 50 kilometres."
+    },
+    {
+        "German": "der Computer, –",
+        "Translation": "computer",
+        "Example": "Wann bekommst du deinen neuen Computer?",
+        "ExampleTranslation": "When are you getting your new computer?"
+    },
+    {
+        "German": "da",
+        "Translation": "there",
+        "Example": "Da hinten ist er ja.",
+        "ExampleTranslation": "He’s back there."
+    },
+    {
+        "German": "da",
+        "Translation": "here",
+        "Example": "Wir sprechen gerade über Paul. Da kommt er ja gerade.",
+        "ExampleTranslation": "We are talking about Paul. Here he comes now."
+    },
+    {
+        "German": "da",
+        "Translation": "there",
+        "Example": "Ich nehme das da.",
+        "ExampleTranslation": "I’ll take that there."
+    },
+    {
+        "German": "da",
+        "Translation": "here",
+        "Example": "Ist Herr Klein schon da?",
+        "ExampleTranslation": "Is Mr Klein already here?"
+    },
+    {
+        "German": "die Dame, -n",
+        "Translation": "lady",
+        "Example": "Damen (an der Toilette)",
+        "ExampleTranslation": "Ladies (toilet sign)"
+    },
+    {
+        "German": "die Dame, -n",
+        "Translation": "lady",
+        "Example": "Sehr geehrte Damen und Herren!",
+        "ExampleTranslation": "Ladies and gentlemen!"
+    },
+    {
+        "German": "daneben",
+        "Translation": "next to it",
+        "Example": "Du kennst doch die Post. Daneben ist die Bank.",
+        "ExampleTranslation": "You do know the post office. The bank is next to it."
+    },
+    {
+        "German": "danken",
+        "Translation": "to thank",
+        "Example": "Ich danke Ihnen für die Einladung.",
+        "ExampleTranslation": "I thank you for the invitation."
+    },
+    {
+        "German": "der Dank",
+        "Translation": "thanks",
+        "Example": "Vielen Dank!",
+        "ExampleTranslation": "Many thanks!"
+    },
+    {
+        "German": "der Dank",
+        "Translation": "thanks",
+        "Example": "Herzlichen Dank!",
+        "ExampleTranslation": "Thank you very much!"
+    },
+    {
+        "German": "danke",
+        "Translation": "thank you",
+        "Example": "Soll ich Ihnen helfen? / Nein, danke!",
+        "ExampleTranslation": "Can I help you? / No thank you!"
+    },
+    {
+        "German": "dann",
+        "Translation": "then (afterwards)",
+        "Example": "Ich muss noch schnell zur Post, dann komme ich.",
+        "ExampleTranslation": "I still need to pop to the post office, then I’ll come."
+    },
+    {
+        "German": "das Datum",
+        "Translation": "date",
+        "Example": "Bitte schreiben Sie noch das Datum auf das Formular.",
+        "ExampleTranslation": "Please write the date on the form."
+    },
+    {
+        "German": "dauern",
+        "Translation": "to take (duration)",
+        "Example": "Wie lange dauert der Film?",
+        "ExampleTranslation": "How long is the film?"
+    },
+    {
+        "German": "dein-",
+        "Translation": "your",
+        "Example": "Ist das dein Auto?",
+        "ExampleTranslation": "Is that your car?"
+    },
+    {
+        "German": "dein-",
+        "Translation": "yourself",
+        "Example": "Ist das deins?",
+        "ExampleTranslation": "Is that yours?"
+    },
+    {
+        "German": "denn",
+        "Translation": "because",
+        "Example": "Ich kann nicht kommen, denn ich bin krank.",
+        "ExampleTranslation": "I can’t come because I’m ill."
+    },
+    {
+        "German": "das",
+        "Translation": "that",
+        "Example": "Ich nehme das da.",
+        "ExampleTranslation": "I’ll take that there."
+    },
+    {
+        "German": "das",
+        "Translation": "the",
+        "Example": "Ich mag das Buch.",
+        "ExampleTranslation": "I like the book."
+    },
+    {
+        "German": "der",
+        "Translation": "the",
+        "Example": "Hier ist der Brief, den du suchst.",
+        "ExampleTranslation": "Here is the letter that you’re looking for."
+    },
+    {
+        "German": "die",
+        "Translation": "the",
+        "Example": "Die Fahrkarte bekommst du am Bahnhof.",
+        "ExampleTranslation": "You will get the ticket at the train station."
+    },
+    {
+        "German": "dich",
+        "Translation": "you",
+        "Example": "Die Blumen sind für dich.",
+        "ExampleTranslation": "The flowers are for you."
+    },
+    {
+        "German": "dies-",
+        "Translation": "this",
+        "Example": "Ich nehme lieber diesen Kuchen.",
+        "ExampleTranslation": "I’d prefer to have this cake."
+    },
+    {
+        "German": "dir",
+        "Translation": "you",
+        "Example": "Gefallen dir die Blumen?",
+        "ExampleTranslation": "Do you like the flowers?"
+    },
+    {
+        "German": "die Disco",
+        "Translation": "disco",
+        "Example": "Heute abend gehen wir in die Disco tanzen.",
+        "ExampleTranslation": "This evening we’re going dancing in the disco."
+    },
+    {
+        "German": "der Doktor",
+        "Translation": "doctor",
+        "Example": "Meine Tochter ist krank. Wir gehen zum Doktor.",
+        "ExampleTranslation": "My daughter is sick. We are going to the doctor."
+    },
+    {
+        "German": "das Doppelzimmer",
+        "Translation": "double room",
+        "Example": "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?",
+        "ExampleTranslation": "Would you like a double room or a single room?"
+    },
+    {
+        "German": "das Dorf, -ö, er",
+        "Translation": "village",
+        "Example": "Meine Familie lebt in einem Dorf.",
+        "ExampleTranslation": "My family lives in a village."
+    },
+    {
+        "German": "dort",
+        "Translation": "there",
+        "Example": "Dort ist mein Zimmer.",
+        "ExampleTranslation": "There's my room."
+    },
+    {
+        "German": "dorthin",
+        "Translation": "there (to that place, in that direction)",
+        "Example": "Deine Tasche kannst du dorthin stellen.",
+        "ExampleTranslation": "You can put your bag there."
+    },
+    {
+        "German": "dorther",
+        "Translation": "from there",
+        "Example": "Er kommt gerade dorther.",
+        "ExampleTranslation": "He's just coming from there."
+    },
+    {
+        "German": "draußen",
+        "Translation": "outside",
+        "Example": "Wollen wir draußen sitzen?",
+        "ExampleTranslation": "Shall we sit outside?"
+    },
+    {
+        "German": "drucken",
+        "Translation": "to print",
+        "Example": "Bitte drucke das Formular für mich.",
+        "ExampleTranslation": "Please print the form for me."
+    },
+    {
+        "German": "der Drucker, –",
+        "Translation": "printer",
+        "Example": "Mein Drucker ist kaputt.",
+        "ExampleTranslation": "My printer is broken."
+    },
+    {
+        "German": "drücken",
+        "Translation": "to press",
+        "Example": "Drück hier, dann geht der Computer an.",
+        "ExampleTranslation": "Press here, then the computer turns on."
+    },
+    {
+        "German": "durch",
+        "Translation": "through",
+        "Example": "Am besten gehen Sie durch die Breite Straße.",
+        "ExampleTranslation": "It's best to go through Breite Straße."
+    },
+    {
+        "German": "die Durchsage, -n",
+        "Translation": "announcement",
+        "Example": "Ich habe die Durchsage nicht verstanden.",
+        "ExampleTranslation": "I didn’t understand the announcement."
+    },
+    {
+        "German": "dürfen",
+        "Translation": "to be allowed",
+        "Example": "Sie dürfen hier nicht rauchen.",
+        "ExampleTranslation": "You are not allowed to smoke here."
+    },
+    {
+        "German": "dürfen",
+        "Translation": "to be allowed",
+        "Example": "Darf ich Sie zu einem Kaffee einladen?",
+        "ExampleTranslation": "May I invite you for a coffee?"
+    },
+    {
+        "German": "dürfen",
+        "Translation": "to be allowed",
+        "Example": "Es darf nicht mehr als 15 Euro kosten.",
+        "ExampleTranslation": "It may not cost more than 15 euros."
+    },
+    {
+        "German": "der Durst",
+        "Translation": "thirst",
+        "Example": "Hast du etwas zu trinken? Ich habe großen Durst.",
+        "ExampleTranslation": "Do you have anything to drink? I’m very thirsty."
+    },
+    {
+        "German": "(sich) duschen",
+        "Translation": "to shower",
+        "Example": "Ich bade nicht so gern, ich dusche lieber.",
+        "ExampleTranslation": "I don’t like bathing so much, I prefer to shower."
+    },
+    {
+        "German": "die Dusche",
+        "Translation": "shower",
+        "Example": "Unsere Wohnung hat nur eine Dusche.",
+        "ExampleTranslation": "Our flat only has a shower."
+    },
+    {
+        "German": "die Ecke, -n",
+        "Translation": "corner",
+        "Example": "An der nächsten Ecke links.",
+        "ExampleTranslation": "Left at the next corner."
+    },
+    {
+        "German": "die Ehefrau, -en/",
+        "Translation": "wife",
+        "Example": "Das ist meine (Ehe-) Frau.",
+        "ExampleTranslation": "That is my wife."
+    },
+    {
+        "German": "der Ehemann, ä, er",
+        "Translation": "husband",
+        "Example": "Das ist mein (Ehe-) Mann.",
+        "ExampleTranslation": "That is my husband."
+    },
+    {
+        "German": "das Ei, -er",
+        "Translation": "egg",
+        "Example": "Möchtest du ein Ei zum Frühstück?",
+        "ExampleTranslation": "Would you like an egg for breakfast?"
+    },
+    {
+        "German": "eilig",
+        "Translation": "…",
+        "Example": "Hast du es eilig?",
+        "ExampleTranslation": "Are you in a hurry?"
+    },
+    {
+        "German": "ein-",
+        "Translation": "one / a",
+        "Example": "Ich nehme ein Bier. Willst du auch eins?",
+        "ExampleTranslation": "I’ll have a beer. Do you want one, too?"
+    },
+    {
+        "German": "ein-",
+        "Translation": "someone",
+        "Example": "Ist hier einer, der das kann?",
+        "ExampleTranslation": "Is there someone here who can do that?"
+    },
+    {
+        "German": "einfach",
+        "Translation": "simple",
+        "Example": "Die Prüfung ist ganz einfach.",
+        "ExampleTranslation": "The test is very simple."
+    },
+    {
+        "German": "einfach",
+        "Translation": "a single (ticket)",
+        "Example": "Hin und zurück? / Nein, bitte nur einfach.",
+        "ExampleTranslation": "Return? / No, just a single, please."
+    },
+    {
+        "German": "einfach",
+        "Translation": "simple",
+        "Example": "Ich brauche nur ein einfaches Zimmer.",
+        "ExampleTranslation": "I just need a simple room."
+    },
+    {
+        "German": "der Eingang",
+        "Translation": "entrance",
+        "Example": "Der Eingang ist um die Ecke.",
+        "ExampleTranslation": "The entrance is round the corner."
+    },
+    {
+        "German": "einkaufen",
+        "Translation": "to go shopping",
+        "Example": "Ich muss noch für morgen einkaufen.",
+        "ExampleTranslation": "I still need to go shopping for tomorrow."
+    },
+    {
+        "German": "einladen",
+        "Translation": "to invite / treat",
+        "Example": "Darf ich Sie zu einem Kaffee einladen?",
+        "ExampleTranslation": "May I treat you to a coffee?"
+    },
+    {
+        "German": "die Einladung",
+        "Translation": "invitation",
+        "Example": "Danke für die Einladung!",
+        "ExampleTranslation": "Thank you for the invitation!"
+    },
+    {
+        "German": "noch einmal",
+        "Translation": "again",
+        "Example": "Diese Prüfung mache ich nicht noch einmal.",
+        "ExampleTranslation": "I will not take this exam again."
+    },
+    {
+        "German": "einmal",
+        "Translation": "once",
+        "Example": "Sie dürfen diese Prüfung nur einmal machen.",
+        "ExampleTranslation": "You may only take this exam once."
+    },
+    {
+        "German": "einsteigen",
+        "Translation": "to get on (board)",
+        "Example": "Schnell, steig ein, der Zug fährt gleich.",
+        "ExampleTranslation": "Quick, get on, the train is about to leave!"
+    },
+    {
+        "German": "der Eintritt",
+        "Translation": "entry",
+        "Example": "Der Preis für den Eintritt ist 5 Euro.",
+        "ExampleTranslation": "The price for entry is 5 euros."
+    },
+    {
+        "German": "das Einzelzimmer",
+        "Translation": "single room",
+        "Example": "Haben Sie noch ein Einzelzimmer?",
+        "ExampleTranslation": "Do you have another single room?"
+    },
+    {
+        "German": "die Eltern (pl.)",
+        "Translation": "parents",
+        "Example": "Meine Eltern leben in Spanien.",
+        "ExampleTranslation": "My parents live in spain."
+    },
+    {
+        "German": "die E-Mail, -s",
+        "Translation": "email",
+        "Example": "Ich habe Ihre E-Mail nicht bekommen.",
+        "ExampleTranslation": "I didn’t receive your email."
+    },
+    {
+        "German": "der Empfänger, –",
+        "Translation": "recipient",
+        "Example": "Auf dem Brief steht dein Name, also bist du der Empfänger.",
+        "ExampleTranslation": "Your name is on the letter, therefore you are the recipient."
+    },
+    {
+        "German": "empfehlen",
+        "Translation": "to recommend",
+        "Example": "Welchen Wein können Sie mir empfehlen?",
+        "ExampleTranslation": "Which wine can you recommend to me?"
+    },
+    {
+        "German": "enden",
+        "Translation": "to end",
+        "Example": "Die Straße endet hier.",
+        "ExampleTranslation": "The street ends here."
+    },
+    {
+        "German": "das Ende",
+        "Translation": "end",
+        "Example": "Sie wohnt am Ende der Straße.",
+        "ExampleTranslation": "She lives at the end of the street."
+    },
+    {
+        "German": "das Ende",
+        "Translation": "end",
+        "Example": "Er bekommt sein Geld am Ende des Monats.",
+        "ExampleTranslation": "He gets his money at the end of the month."
+    },
+    {
+        "German": "entschuldigen",
+        "Translation": "to excuse",
+        "Example": "Entschuldigen Sie bitte!",
+        "ExampleTranslation": "Excuse me, please!"
+    },
+    {
+        "German": "die Entschuldigung",
+        "Translation": "…",
+        "Example": "Entschuldigung! / Bitte.",
+        "ExampleTranslation": "Excuse me! / Sure."
+    },
+    {
+        "German": "er",
+        "Translation": "he",
+        "Example": "Er heißt Ali.",
+        "ExampleTranslation": "He’s called Ali."
+    },
+    {
+        "German": "das Ergebnis, -se",
+        "Translation": "result",
+        "Example": "Das Ergebnis des Tests bekommen Sie in zwei Wochen.",
+        "ExampleTranslation": "You will receive the test results in two weeks."
+    },
+    {
+        "German": "erklären",
+        "Translation": "to explain",
+        "Example": "Kannst du mir das erklären?",
+        "ExampleTranslation": "Can you explain that to me?"
+    },
+    {
+        "German": "erlauben",
+        "Translation": "allow",
+        "Example": "Rauchen ist hier nicht erlaubt.",
+        "ExampleTranslation": "Smoking is not allowed here."
+    },
+    {
+        "German": "der Erwachsene, -n",
+        "Translation": "adult",
+        "Example": "Dieser Film ist nur für Erwachsene.",
+        "ExampleTranslation": "This film is for adults only."
+    },
+    {
+        "German": "erzählen",
+        "Translation": "to tell",
+        "Example": "Wir müssen euch etwas erzählen!",
+        "ExampleTranslation": "We need to tell you something!"
+    },
+    {
+        "German": "es",
+        "Translation": "it",
+        "Example": "Es regnet.",
+        "ExampleTranslation": "It’s raining."
+    },
+    {
+        "German": "essen",
+        "Translation": "to eat",
+        "Example": "Was gibt es zu essen?",
+        "ExampleTranslation": "What is there to eat?"
+    },
+    {
+        "German": "das Essen",
+        "Translation": "food",
+        "Example": "Das Essen ist heute sehr gut.",
+        "ExampleTranslation": "The food is very good today."
+    },
+    {
+        "German": "euer",
+        "Translation": "your [pl.]",
+        "Example": "Euer Kurs beginnt heute.",
+        "ExampleTranslation": "Your course begins today."
+    },
+    {
+        "German": "fahren",
+        "Translation": "to travel",
+        "Example": "Ich fahre mit dem Auto zur Arbeit.",
+        "ExampleTranslation": "I go to work by car."
+    },
+    {
+        "German": "der Fahrer",
+        "Translation": "driver",
+        "Example": "Bitte nicht mit dem Fahrer sprechen!",
+        "ExampleTranslation": "Please do not speak to the driver!"
+    },
+    {
+        "German": "die Fahrkarte, -n",
+        "Translation": "(transport) ticket",
+        "Example": "Hast du schon eine Fahrkarte?",
+        "ExampleTranslation": "Do you already have a ticket?"
+    },
+    {
+        "German": "das Fahrrad, -ä, er",
+        "Translation": "bicycle",
+        "Example": "Fährst du mit dem Fahrrad oder mit dem Auto?",
+        "ExampleTranslation": "Do you travel by bike or by car?"
+    },
+    {
+        "German": "falsch",
+        "Translation": "wrong / incorrect",
+        "Example": "Das ist falsch.",
+        "ExampleTranslation": "That is wrong."
+    },
+    {
+        "German": "die Familie, -n",
+        "Translation": "family",
+        "Example": "Meine Familie lebt in Spanien.",
+        "ExampleTranslation": "My family lives in Spain."
+    },
+    {
+        "German": "der Familienname",
+        "Translation": "surname",
+        "Example": "Meine Familiennamen sind García González.",
+        "ExampleTranslation": "My surname is García González."
+    },
+    {
+        "German": "der Familienstand",
+        "Translation": "family/marital status",
+        "Example": "Bei „Familienstand“ musst du „ledig“ ankreuzen.",
+        "ExampleTranslation": "Under “family status” you have to tick “single”."
+    },
+    {
+        "German": "die Farbe, -n",
+        "Translation": "colour",
+        "Example": "Die Farbe gefällt mir gut.",
+        "ExampleTranslation": "I like the colour."
+    },
+    {
+        "German": "das Fax, -e",
+        "Translation": "fax",
+        "Example": "Schicken Sie uns einfach ein Fax!",
+        "ExampleTranslation": "Just send us a fax!"
+    },
+    {
+        "German": "der Feierabend",
+        "Translation": "end of work/home time",
+        "Example": "Wir machen jetzt Feierabend.",
+        "ExampleTranslation": "We are calling it a day now. / We are finishing work for the day now."
+    },
+    {
+        "German": "der Feiertag",
+        "Translation": "bank holiday",
+        "Example": "Am Montag ist Feiertag.",
+        "ExampleTranslation": "Monday is a bank holiday."
+    },
+    {
+        "German": "feiern",
+        "Translation": "to celebrate",
+        "Example": "Wir feiern heute meinen Geburtstag.",
+        "ExampleTranslation": "Today we are celebrating my birthday."
+    },
+    {
+        "German": "fehlen",
+        "Translation": "to be absent",
+        "Example": "Herr Müller ist nicht da, er fehlt schon seit drei Tagen.",
+        "ExampleTranslation": "Mr Müller is not here, he’s been absent for three days."
+    },
+    {
+        "German": "fehlen",
+        "Translation": "to be missing",
+        "Example": "Was fehlt Ihnen?",
+        "ExampleTranslation": "What are you missing?"
+    },
+    {
+        "German": "der Fehler, –",
+        "Translation": "mistake",
+        "Example": "Diesen Fehler mache ich immer.",
+        "ExampleTranslation": "I always make this mistake."
+    },
+    {
+        "German": "fernsehen",
+        "Translation": "to watch TV",
+        "Example": "Wollen wir heute Abend mal fernsehen?",
+        "ExampleTranslation": "Shall we watch TV this evening?"
+    },
+    {
+        "German": "fertig",
+        "Translation": "finished / ready / done",
+        "Example": "Bist du fertig?",
+        "ExampleTranslation": "Are you done?"
+    },
+    {
+        "German": "fertig",
+        "Translation": "finished / ready / done",
+        "Example": "Ist mein Auto schon fertig?",
+        "ExampleTranslation": "Is my car already finished?"
+    },
+    {
+        "German": "das Feuer",
+        "Translation": "fire / lighter",
+        "Example": "Haben Sie Feuer?",
+        "ExampleTranslation": "Do you have a light?"
+    },
+    {
+        "German": "das Fieber",
+        "Translation": "fever",
+        "Example": "Mein Mann hat noch immer Fieber.",
+        "ExampleTranslation": "My husband still has a fever."
+    },
+    {
+        "German": "der Film, -e",
+        "Translation": "film",
+        "Example": "Ich möchte gern diesen Film sehen.",
+        "ExampleTranslation": "I would like to see this film."
+    },
+    {
+        "German": "finden",
+        "Translation": "to find",
+        "Example": "Wir müssen den Schlüssel finden.",
+        "ExampleTranslation": "We must find the key."
+    },
+    {
+        "German": "die Firma",
+        "Translation": "company",
+        "Example": "Er arbeitet jetzt bei einer anderen Firma.",
+        "ExampleTranslation": "He works for another company now."
+    },
+    {
+        "German": "der Fisch, -e",
+        "Translation": "fish",
+        "Example": "Ich esse gern Fisch. Fleisch mag ich nicht.",
+        "ExampleTranslation": "I like to eat fish. I don’t like meat."
+    },
+    {
+        "German": "die Flasche, -n",
+        "Translation": "bottle",
+        "Example": "Eine Flasche Bier, bitte.",
+        "ExampleTranslation": "A bottle of beer, please."
+    },
+    {
+        "German": "das Fleisch",
+        "Translation": "meat",
+        "Example": "Fleisch mag ich nicht.",
+        "ExampleTranslation": "I don’t like meat."
+    },
+    {
+        "German": "fliegen",
+        "Translation": "to fly",
+        "Example": "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.",
+        "ExampleTranslation": "I don’t like to fly. That's why I travel by train."
+    },
+    {
+        "German": "abfliegen",
+        "Translation": "to depart (by air)",
+        "Example": "Wann fliegst du ab?",
+        "ExampleTranslation": "When do you depart?"
+    },
+    {
+        "German": "der Abflug",
+        "Translation": "(flight) departure",
+        "Example": "Der Abflug ist um 11.20 Uhr.",
+        "ExampleTranslation": "Departure is at 11:20 am."
+    },
+    {
+        "German": "der Flughafen",
+        "Translation": "airport",
+        "Example": "Kannst du mich zum Flughafen bringen?",
+        "ExampleTranslation": "Can you take me to the airport?"
+    },
+    {
+        "German": "das Flugzeug",
+        "Translation": "aeroplane",
+        "Example": "Das Flugzeug aus Berlin kommt heute später an.",
+        "ExampleTranslation": "The plane from Berlin will arrive later today."
+    },
+    {
+        "German": "das Formular, -e",
+        "Translation": "form",
+        "Example": "Sie müssen dieses Formular ausfüllen.",
+        "ExampleTranslation": "You must fill out this form."
+    },
+    {
+        "German": "das Foto, -s",
+        "Translation": "photograph",
+        "Example": "Darf ich ein Foto machen?",
+        "ExampleTranslation": "May I take a photo?"
+    },
+    {
+        "German": "fragen",
+        "Translation": "to ask",
+        "Example": "Er möchte Sie etwas fragen. Wann kommen Sie?",
+        "ExampleTranslation": "He wants to ask you something. When are you coming?"
+    },
+    {
+        "German": "die Frage, -n",
+        "Translation": "question",
+        "Example": "Ich habe eine Frage.",
+        "ExampleTranslation": "I have a question."
+    },
+    {
+        "German": "die Frau",
+        "Translation": "Ms",
+        "Example": "Das ist Frau Becker.",
+        "ExampleTranslation": "That is Ms Becker."
+    },
+    {
+        "German": "die Frau",
+        "Translation": "woman",
+        "Example": "Die Frau da drüben ist Eva Schmitt.",
+        "ExampleTranslation": "The woman over there is Eva Schmitt."
+    },
+    {
+        "German": "die Frauen",
+        "Translation": "women",
+        "Example": "Hier arbeiten mehr Frauen als Männer.",
+        "ExampleTranslation": "More women work here than men."
+    },
+    {
+        "German": "frei",
+        "Translation": "free",
+        "Example": "Ist der Platz noch frei?",
+        "ExampleTranslation": "Is this seat still free?"
+    },
+    {
+        "German": "die Freizeit",
+        "Translation": "free time",
+        "Example": "In meiner Freizeit spiele ich oft Fußball.",
+        "ExampleTranslation": "I often play football in my free time."
+    },
+    {
+        "German": "fremd",
+        "Translation": "foreign",
+        "Example": "Das weiß ich nicht, ich bin fremd hier.",
+        "ExampleTranslation": "I don’t know, I’m not from here."
+    },
+    {
+        "German": "(sich) freuen",
+        "Translation": "to look forward",
+        "Example": "Ich freue mich auf den Urlaub.",
+        "ExampleTranslation": "I’m looking forward to the holiday."
+    },
+    {
+        "German": "der Freund, -e",
+        "Translation": "friend",
+        "Example": "Das ist ein Freund von mir.",
+        "ExampleTranslation": "That is a friend of mine."
+    },
+    {
+        "German": "die Freundin",
+        "Translation": "friend / girlfriend",
+        "Example": "Das ist meine Freundin.",
+        "ExampleTranslation": "That is my friend/girlfriend."
+    },
+    {
+        "German": "früher",
+        "Translation": "earlier / in the past",
+        "Example": "Früher waren wir oft zusammen im Kino.",
+        "ExampleTranslation": "In the past we often went to the cinema together."
+    },
+    {
+        "German": "frühstücken",
+        "Translation": "to have breakfast",
+        "Example": "Am Sonntag frühstücke ich gern im Bett.",
+        "ExampleTranslation": "On Sunday I like to have breakfast in bed."
+    },
+    {
+        "German": "das Frühstück",
+        "Translation": "breakfast",
+        "Example": "Möchtest du ein Ei zum Frühstück?",
+        "ExampleTranslation": "Would you like an egg for breakfast?"
+    },
+    {
+        "German": "die Führung",
+        "Translation": "tour",
+        "Example": "Die Führung durch das Haus beginnt in 3 Minuten.",
+        "ExampleTranslation": "The tour of the house begins in 3 minutes."
+    },
+    {
+        "German": "für",
+        "Translation": "for",
+        "Example": "Das ist für Sie.",
+        "ExampleTranslation": "That's for you."
+    },
+    {
+        "German": "für",
+        "Translation": "for",
+        "Example": "Das ist der Schlüssel für die Haustür.",
+        "ExampleTranslation": "That's the key for the front door."
+    },
+    {
+        "German": "für",
+        "Translation": "for",
+        "Example": "Das ist das Brot für morgen.",
+        "ExampleTranslation": "That's the bread for tomorrow."
+    },
+    {
+        "German": "der Fuß, -ü, e",
+        "Translation": "foot",
+        "Example": "Der linke Fuß tut mir weh.",
+        "ExampleTranslation": "My left foot hurts."
+    },
+    {
+        "German": "der Fußball",
+        "Translation": "football",
+        "Example": "Spielt ihr gerne Fußball?",
+        "ExampleTranslation": "Do you like playing football?"
+    },
+    {
+        "German": "der Garten",
+        "Translation": "garden",
+        "Example": "Wir haben leider keinen Garten.",
+        "ExampleTranslation": "Unfortunately we don't have a garden."
+    },
+    {
+        "German": "der Gast, -ä, e",
+        "Translation": "guest",
+        "Example": "Am Wochenende haben wir mehrere Gäste.",
+        "ExampleTranslation": "At the weekend we have several guests."
+    },
+    {
+        "German": "geben",
+        "Translation": "to give",
+        "Example": "Kannst du mir bitte deinen Kugelschreiber geben?",
+        "ExampleTranslation": "Can you give me your pen, please?"
+    },
+    {
+        "German": "es gibt",
+        "Translation": "there is/are",
+        "Example": "Es gibt keine Karten mehr.",
+        "ExampleTranslation": "There are no more tickets."
+    },
+    {
+        "German": "geboren",
+        "Translation": "born",
+        "Example": "Ich bin in Zagreb geboren.",
+        "ExampleTranslation": "I was born in Zagreb."
+    },
+    {
+        "German": "das Geburtsjahr",
+        "Translation": "birth year",
+        "Example": "Das Geburtsjahr Ihres Sohnes, bitte?",
+        "ExampleTranslation": "Your son's year of birth, please?"
+    },
+    {
+        "German": "der Geburtsort",
+        "Translation": "birthplace",
+        "Example": "Bitte schreiben Sie Ihren Geburtsort auf das Formular.",
+        "ExampleTranslation": "Please write your birthplace on the form."
+    },
+    {
+        "German": "der Geburtstag",
+        "Translation": "birthday",
+        "Example": "Herzlichen Glückwunsch zum Geburtstag!",
+        "ExampleTranslation": "Best wishes on your birthday!"
+    },
+    {
+        "German": "gefallen",
+        "Translation": "to like",
+        "Example": "Das gefällt mir.",
+        "ExampleTranslation": "I like that."
+    },
+    {
+        "German": "gegen",
+        "Translation": "into",
+        "Example": "Fahr nicht gegen den Baum!",
+        "ExampleTranslation": "Don’t drive into the tree!"
+    },
+    {
+        "German": "gegen",
+        "Translation": "against",
+        "Example": "Ich bin gegen diese Lösung.",
+        "ExampleTranslation": "I am against this solution."
+    },
+    {
+        "German": "gegen",
+        "Translation": "against",
+        "Example": "Wer spielt gegen wen?",
+        "ExampleTranslation": "Who is playing against whom?"
+    },
+    {
+        "German": "gehen",
+        "Translation": "to work/function",
+        "Example": "Ich weiß nicht, wie das geht.",
+        "ExampleTranslation": "I don’t know how it works./I don't know how to do that."
+    },
+    {
+        "German": "gehen",
+        "Translation": "to go",
+        "Example": "Wie geht's?",
+        "ExampleTranslation": "How is it going?"
+    },
+    {
+        "German": "gehen",
+        "Translation": "to go",
+        "Example": "Jetzt muss ich (aber) leider gehen.",
+        "ExampleTranslation": "Unfortunately I need to go now."
+    },
+    {
+        "German": "gehen",
+        "Translation": "to go",
+        "Example": "Ich muss zum Arzt gehen.",
+        "ExampleTranslation": "I need to go to the doctor."
+    },
+    {
+        "German": "gehen",
+        "Translation": "to be okay",
+        "Example": "Das geht nicht!",
+        "ExampleTranslation": "That’s not okay!"
+    },
+    {
+        "German": "gehören",
+        "Translation": "to belong",
+        "Example": "Wem gehört das?",
+        "ExampleTranslation": "To whom does that belong?"
+    },
+    {
+        "German": "das Geld",
+        "Translation": "money",
+        "Example": "Hast du noch Geld?",
+        "ExampleTranslation": "Do you still have money?"
+    },
+    {
+        "German": "das Gemüse",
+        "Translation": "vegetables",
+        "Example": "Gemüse brauchen wir auch noch.",
+        "ExampleTranslation": "We also need vegetables."
+    },
+    {
+        "German": "das Gepäck",
+        "Translation": "luggage",
+        "Example": "Wollen Sie Ihr Gepäck mitnehmen?",
+        "ExampleTranslation": "Do you want to take your luggage with you?"
+    },
+    {
+        "German": "gerade",
+        "Translation": "now",
+        "Example": "Da kommt er ja gerade.",
+        "ExampleTranslation": "There he comes now."
+    },
+    {
+        "German": "geradeaus",
+        "Translation": "straight on",
+        "Example": "Gehen Sie immer geradeaus!",
+        "ExampleTranslation": "Keep going straight on!"
+    },
+    {
+        "German": "gern(e)",
+        "Translation": "…",
+        "Example": "Ich gehe gerne einkaufen.",
+        "ExampleTranslation": "I like to go shopping."
+    },
+    {
+        "German": "das Geschäft, -e",
+        "Translation": "shop",
+        "Example": "Die Geschäfte schließen um 18.30 Uhr.",
+        "ExampleTranslation": "The shops close at 6:30 pm."
+    },
+    {
+        "German": "das Geschenk, -e",
+        "Translation": "present",
+        "Example": "Danke für das schöne Geschenk.",
+        "ExampleTranslation": "Thank you for the beautiful present."
+    },
+    {
+        "German": "die Geschwister (pl.)",
+        "Translation": "sibling",
+        "Example": "Ich habe leider keine Geschwister.",
+        "ExampleTranslation": "Unfortunately I have no siblings."
+    },
+    {
+        "German": "das Gespräch, -e",
+        "Translation": "conversation/talk/call",
+        "Example": "Das Gespräch mit Frau Kunz ist um 14 Uhr.",
+        "ExampleTranslation": "The conversation with Ms Kunz is at 2 pm."
+    },
+    {
+        "German": "gestern",
+        "Translation": "yesterday",
+        "Example": "Gestern war ich krank.",
+        "ExampleTranslation": "Yesterday I was ill."
+    },
+    {
+        "German": "gestorben",
+        "Translation": "died",
+        "Example": "Meine Frau ist gestern gestorben.",
+        "ExampleTranslation": "My wife died yesterday."
+    },
+    {
+        "German": "das Getränk, -e",
+        "Translation": "drink",
+        "Example": "Mein Lieblingsgetränk ist Tomatensaft.",
+        "ExampleTranslation": "My favourite drink is tomato juice."
+    },
+    {
+        "German": "das Gewicht",
+        "Translation": "weight",
+        "Example": "Bei „Gewicht“ schreibst du: 62 Kilo.",
+        "ExampleTranslation": "For “weight”, write 62 kg."
+    },
+    {
+        "German": "gewinnen",
+        "Translation": "to win",
+        "Example": "Wer gewinnt das Spiel?",
+        "ExampleTranslation": "Who is winning the game?"
+    },
+    {
+        "German": "das Glas, -ä, er",
+        "Translation": "glass",
+        "Example": "Bitte noch ein Glas Wein!",
+        "ExampleTranslation": "Another glass of wine, please!"
+    },
+    {
+        "German": "das Glas, -ä, er",
+        "Translation": "glasses",
+        "Example": "Wir brauchen noch drei Gläser.",
+        "ExampleTranslation": "We need three more glasses."
+    },
+    {
+        "German": "glauben",
+        "Translation": "to believe",
+        "Example": "Sie können mir glauben, es ist so.",
+        "ExampleTranslation": "You can believe me, it’s true."
+    },
+    {
+        "German": "glauben",
+        "Translation": "to think",
+        "Example": "Ich glaube, er kommt gleich.",
+        "ExampleTranslation": "I think he’ll be here in a moment."
+    },
+    {
+        "German": "gleich",
+        "Translation": "same",
+        "Example": "Das ist mir gleich.",
+        "ExampleTranslation": "It’s all the same to me."
+    },
+    {
+        "German": "gleich",
+        "Translation": "same",
+        "Example": "Das ist der gleiche Preis.",
+        "ExampleTranslation": "That is the same price."
+    },
+    {
+        "German": "gleich",
+        "Translation": "now",
+        "Example": "Ich komme gleich.",
+        "ExampleTranslation": "I’ll be right there."
+    },
+    {
+        "German": "das Gleis, -e",
+        "Translation": "platform",
+        "Example": "Der ICE nach Berlin hält heute an Gleis 12.",
+        "ExampleTranslation": "The ICE to Berlin is stopping on platform 12 today."
+    },
+    {
+        "German": "das Glück",
+        "Translation": "luck",
+        "Example": "Viel Glück!",
+        "ExampleTranslation": "Good luck!"
+    },
+    {
+        "German": "glücklich",
+        "Translation": "happily",
+        "Example": "Meine Kinder sind glücklich verheiratet.",
+        "ExampleTranslation": "My children are happily married."
+    },
+    {
+        "German": "der Glückwunsch",
+        "Translation": "congratulations",
+        "Example": "Herzlichen Glückwunsch zum Geburtstag.",
+        "ExampleTranslation": "Best wishes on your birthday!"
+    },
+    {
+        "German": "Grad (Celsius)",
+        "Translation": "degrees",
+        "Example": "Heute haben wir dreißig Grad.",
+        "ExampleTranslation": "Today it is thirty degrees."
+    },
+    {
+        "German": "gratulieren",
+        "Translation": "to congratulate",
+        "Example": "Ich gratuliere dir!",
+        "ExampleTranslation": "I congratulate you!"
+    },
+    {
+        "German": "grillen",
+        "Translation": "to (have a) barbecue",
+        "Example": "Heute grillen wir im Garten.",
+        "ExampleTranslation": "Today we are having a barbecue in the garden."
+    },
+    {
+        "German": "groß",
+        "Translation": "tall",
+        "Example": "Mein Bruder und ich sind gleich groß.",
+        "ExampleTranslation": "My brother and I are the same height."
+    },
+    {
+        "German": "groß",
+        "Translation": "large",
+        "Example": "Frankfurt ist eine große Stadt.",
+        "ExampleTranslation": "Frankfurt is a large town."
+    },
+    {
+        "German": "die Größe",
+        "Translation": "size",
+        "Example": "Haben Sie das auch in Größe 40?",
+        "ExampleTranslation": "Do you also have that in size 40?"
+    },
+    {
+        "German": "die Großeltern (pl.)",
+        "Translation": "grandparents",
+        "Example": "Meine Großeltern leben in Japan.",
+        "ExampleTranslation": "My grandparents live in Japan."
+    },
+    {
+        "German": "die Großmutter",
+        "Translation": "grandmother",
+        "Example": "Meine Großmutter heißt Eva.",
+        "ExampleTranslation": "My grandmother is called Eva."
+    },
+    {
+        "German": "der Großvater",
+        "Translation": "grandfather",
+        "Example": "Mein Großvater ist schon 80.",
+        "ExampleTranslation": "My grandfather is already 80."
+    },
+    {
+        "German": "die Gruppe, -n",
+        "Translation": "group",
+        "Example": "Die erste Gruppe beginnt um 16 Uhr.",
+        "ExampleTranslation": "The first group begins at 4 pm."
+    },
+    {
+        "German": "der Gruß, -ü, e",
+        "Translation": "regards",
+        "Example": "Viele Grüße an Ihre Frau.",
+        "ExampleTranslation": "Give my regards to your wife."
+    },
+    {
+        "German": "der Gruß, -ü, e",
+        "Translation": "regards",
+        "Example": "Mit freundlichen Grüßen",
+        "ExampleTranslation": "Kind regards."
+    },
+    {
+        "German": "gültig",
+        "Translation": "valid",
+        "Example": "Der Pass ist nicht mehr gültig.",
+        "ExampleTranslation": "The passport is no longer valid."
+    },
+    {
+        "German": "günstig",
+        "Translation": "cheap",
+        "Example": "Dort gibt es günstige Angebote.",
+        "ExampleTranslation": "There are cheap offers there."
+    },
+    {
+        "German": "gut",
+        "Translation": "good",
+        "Example": "Das finde ich gut.",
+        "ExampleTranslation": "I think that’s good."
+    },
+    {
+        "German": "gut",
+        "Translation": "good",
+        "Example": "Ich komme um 13 Uhr. / Gut!",
+        "ExampleTranslation": "I will arrive at 1 pm. / Good!"
+    },
+    {
+        "German": "gut",
+        "Translation": "good",
+        "Example": "Guten Morgen!",
+        "ExampleTranslation": "Good morning!"
+    },
+    {
+        "German": "gut",
+        "Translation": "…",
+        "Example": "Ein gutes neues Jahr!",
+        "ExampleTranslation": "Happy new year!"
+    },
+    {
+        "German": "gut",
+        "Translation": "…",
+        "Example": "Guten Appetit!",
+        "ExampleTranslation": "Bon appetit!"
+    },
+    {
+        "German": "das Haar, -e",
+        "Translation": "hair",
+        "Example": "Sie hat lange Haare.",
+        "ExampleTranslation": "She has long hair."
+    },
+    {
+        "German": "haben",
+        "Translation": "to have",
+        "Example": "Ich habe ein neues Auto.",
+        "ExampleTranslation": "I have a new car."
+    },
+    {
+        "German": "das Hähnchen, -",
+        "Translation": "chicken",
+        "Example": "Ein Hähnchen mit Pommes bitte!",
+        "ExampleTranslation": "Chicken with chips, please!"
+    },
+    {
+        "German": "die Halbpension",
+        "Translation": "board (dining)",
+        "Example": "Möchten Sie Vollpension oder Halbpension?",
+        "ExampleTranslation": "Would you like full or half-board?"
+    },
+    {
+        "German": "die Halle",
+        "Translation": "hall",
+        "Example": "Wir treffen uns in Halle B.",
+        "ExampleTranslation": "We will meet in hall B."
+    },
+    {
+        "German": "hallo",
+        "Translation": "hello",
+        "Example": "Hallo Inge! Wie geht’s?",
+        "ExampleTranslation": "Hello Inge! How’s it going?"
+    },
+    {
+        "German": "halten",
+        "Translation": "to stop",
+        "Example": "Dieser Zug hält nicht in Rüdesheim.",
+        "ExampleTranslation": "This train does not stop in Rüdesheim."
+    },
+    {
+        "German": "die Haltestelle",
+        "Translation": "(public transport) stop",
+        "Example": "An der nächsten Haltestelle müssen Sie aussteigen.",
+        "ExampleTranslation": "At the next stop you must alight."
+    },
+    {
+        "German": "die Hand, -ä, e",
+        "Translation": "hand",
+        "Example": "Er gibt mir die Hand.",
+        "ExampleTranslation": "He gives me his hand."
+    },
+    {
+        "German": "das Handy, -s",
+        "Translation": "mobile telephone",
+        "Example": "In der Schule bitte die Handys ausmachen!",
+        "ExampleTranslation": "Please turn off your mobile phones in school!"
+    },
+    {
+        "German": "das Haus, -ä, er",
+        "Translation": "house / building",
+        "Example": "In welchem Haus wohnst du?",
+        "ExampleTranslation": "Which house do you live in?"
+    },
+    {
+        "German": "das Haus, -ä, er",
+        "Translation": "home",
+        "Example": "Ich gehe jetzt nach Hause.",
+        "ExampleTranslation": "I’m going home now."
+    },
+    {
+        "German": "das Haus, -ä, er",
+        "Translation": "home",
+        "Example": "Paul ist nicht zu Hause.",
+        "ExampleTranslation": "Paul is not home."
+    },
+    {
+        "German": "die Hausaufgabe,-n",
+        "Translation": "homework",
+        "Example": "Kannst du mir bei den Hausaufgaben helfen?",
+        "ExampleTranslation": "Can you help me with the homework?"
+    },
+    {
+        "German": "die Hausfrau, -en/",
+        "Translation": "housewife",
+        "Example": "Die Hausfrau wäscht, kocht und kauft ein.",
+        "ExampleTranslation": "The housewife washes, cooks, and goes shopping."
+    },
+    {
+        "German": "der Hausmann",
+        "Translation": "househusband",
+        "Example": "Der Hausmann wäscht, kocht und kauft ein.",
+        "ExampleTranslation": "The househusband washes, cooks, and goes shopping."
+    },
+    {
+        "German": "die Heimat",
+        "Translation": "home",
+        "Example": "Ich komme aus der Schweiz. Das ist meine Heimat.",
+        "ExampleTranslation": "I come from Switzerland. It’s my home."
+    },
+    {
+        "German": "heiraten",
+        "Translation": "to marry",
+        "Example": "Meine Schwester heiratet einen Japaner.",
+        "ExampleTranslation": "My sister is marrying a Japanese man."
+    },
+    {
+        "German": "heißen",
+        "Translation": "to be called",
+        "Example": "Ich heiße Charlotte Meier.",
+        "ExampleTranslation": "I’m called Charlotte Meier."
+    },
+    {
+        "German": "heißen",
+        "Translation": "to be called",
+        "Example": "Wie heißt das auf Deutsch?",
+        "ExampleTranslation": "What’s that called in German?"
+    },
+    {
+        "German": "helfen",
+        "Translation": "to help",
+        "Example": "Können Sie mir helfen, bitte?",
+        "ExampleTranslation": "Can you help me, please?"
+    },
+    {
+        "German": "hell",
+        "Translation": "light",
+        "Example": "Im Sommer ist es bis 21 Uhr hell.",
+        "ExampleTranslation": "In summer it is light until 9 pm."
+    },
+    {
+        "German": "der Herd",
+        "Translation": "stove",
+        "Example": "In der neuen Küche fehlt noch der Herd.",
+        "ExampleTranslation": "The stove is still missing from the new kitchen."
+    },
+    {
+        "German": "der Herr, -en",
+        "Translation": "Mister",
+        "Example": "Guten Tag, Herr Sommer!",
+        "ExampleTranslation": "Good day, Mr Sommer!"
+    },
+    {
+        "German": "herzlich",
+        "Translation": "…",
+        "Example": "Herzlichen Glückwunsch!",
+        "ExampleTranslation": "Congratulations!"
+    },
+    {
+        "German": "heute",
+        "Translation": "today",
+        "Example": "Heute ist ein schöner Tag.",
+        "ExampleTranslation": "Today is a beautiful day."
+    },
+    {
+        "German": "hier",
+        "Translation": "here",
+        "Example": "Hier ist 06131-553221, Pamela Linke.",
+        "ExampleTranslation": "This is 06131-553221, Pamela Linke."
+    },
+    {
+        "German": "hier",
+        "Translation": "here",
+        "Example": "Hier wohne ich.",
+        "ExampleTranslation": "I live here."
+    },
+    {
+        "German": "die Hilfe",
+        "Translation": "help",
+        "Example": "Hilfe! Bitte helfen Sie mir!",
+        "ExampleTranslation": "Help! Please help me!"
+    },
+    {
+        "German": "die Hilfe",
+        "Translation": "help",
+        "Example": "Brauchen Sie meine Hilfe?",
+        "ExampleTranslation": "Do you need my help?"
+    },
+    {
+        "German": "hinten",
+        "Translation": "at/in the back",
+        "Example": "Die Tür zum Aussteigen ist hinten.",
+        "ExampleTranslation": "The exit door is at the back."
+    },
+    {
+        "German": "das Hobby, -s",
+        "Translation": "hobby",
+        "Example": "Meine Hobbys sind Wandern und Schwimmen.",
+        "ExampleTranslation": "My hobbies are hiking and swimming."
+    },
+    {
+        "German": "hoch",
+        "Translation": "high",
+        "Example": "Der Mount Everest ist 8.880 Meter hoch.",
+        "ExampleTranslation": "Mount Everest is 8,880 metres high."
+    },
+    {
+        "German": "die Hochzeit",
+        "Translation": "marriage",
+        "Example": "Zur dieser Hochzeit kommen mehr als fünfzig Gäste.",
+        "ExampleTranslation": "More than fifty guests are coming to this wedding."
+    },
+    {
+        "German": "holen",
+        "Translation": "to fetch",
+        "Example": "Ich hole zwei Flaschen Wasser aus der Küche.",
+        "ExampleTranslation": "I’m fetching two bottles of water from the kitchen."
+    },
+    {
+        "German": "hören",
+        "Translation": "to listen",
+        "Example": "Hör mal! Was ist das?",
+        "ExampleTranslation": "Listen! What is that?"
+    },
+    {
+        "German": "hören",
+        "Translation": "to hear",
+        "Example": "Ich habe das Lied schon mal gehört.",
+        "ExampleTranslation": "I have already heard that song."
+    },
+    {
+        "German": "das Hotel, -s",
+        "Translation": "hotel",
+        "Example": "Im Urlaub sind wir in einem Hotel am Meer.",
+        "ExampleTranslation": "On holiday we are in a hotel by the sea."
+    },
+    {
+        "German": "der Hund, -e",
+        "Translation": "dog",
+        "Example": "Der Hund ist noch jung.",
+        "ExampleTranslation": "The dog is still young."
+    },
+    {
+        "German": "der Hunger",
+        "Translation": "hunger",
+        "Example": "Ich habe Hunger! Wann ist das Essen fertig?",
+        "ExampleTranslation": "I’m hungry! When will the food be ready?"
+    },
+    {
+        "German": "ich",
+        "Translation": "I",
+        "Example": "Ich heiße Veronika.",
+        "ExampleTranslation": "I’m called Veronika."
+    },
+    {
+        "German": "ihm/ihr",
+        "Translation": "him/her",
+        "Example": "Gib ihm/ihr bitte das Buch.",
+        "ExampleTranslation": "Please give the book to him/her."
+    },
+    {
+        "German": "ihn",
+        "Translation": "him",
+        "Example": "Ruf ihn bitte an.",
+        "ExampleTranslation": "Call him, please."
+    },
+    {
+        "German": "immer",
+        "Translation": "always",
+        "Example": "Frau Bast kommt immer zu spät.",
+        "ExampleTranslation": "Ms Bast is always late."
+    },
+    {
+        "German": "in",
+        "Translation": "in",
+        "Example": "Ich wohne in Wiesbaden.",
+        "ExampleTranslation": "I live in Wiesbaden."
+    },
+    {
+        "German": "in",
+        "Translation": "in",
+        "Example": "Der Zug kommt in fünf Minuten.",
+        "ExampleTranslation": "The train comes in five minutes."
+    },
+    {
+        "German": "in",
+        "Translation": "in",
+        "Example": "Frau Rausch arbeitet in einem Geschäft.",
+        "ExampleTranslation": "Ms Rausch works in a shop."
+    },
+    {
+        "German": "in",
+        "Translation": "to",
+        "Example": "Komm, wir gehen ins Kino.",
+        "ExampleTranslation": "Come on, we’re going to the cinema."
+    },
+    {
+        "German": "die Information, -en",
+        "Translation": "information point",
+        "Example": "Wenn Sie Fragen haben, gehen Sie zur Information.",
+        "ExampleTranslation": "If you have questions, go to the information point."
+    },
+    {
+        "German": "die Information, -en",
+        "Translation": "information",
+        "Example": "Wir haben hier wichtige Informationen für Sie.",
+        "ExampleTranslation": "We have important information for you."
+    },
+    {
+        "German": "international",
+        "Translation": "international",
+        "Example": "Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China ...",
+        "ExampleTranslation": "Our German course is international: Silvana comes from Italy, Conchi from Spain, Yin from China, …"
+    },
+    {
+        "German": "das Internet",
+        "Translation": "internet",
+        "Example": "Das findest du im Internet.",
+        "ExampleTranslation": "You will find that on the internet."
+    },
+    {
+        "German": "ja",
+        "Translation": "yes",
+        "Example": "Sind Sie Herr Watanabe? / Ja.",
+        "ExampleTranslation": "Are you Mr Watanabe? / Yes."
+    },
+    {
+        "German": "die Jacke, -n",
+        "Translation": "jacket",
+        "Example": "Zieh dir eine Jacke an. Es ist kalt.",
+        "ExampleTranslation": "Put your jacket on. It’s cold."
+    },
+    {
+        "German": "jed-",
+        "Translation": "every",
+        "Example": "Blumen kannst du in jedem Bahnhof kaufen.",
+        "ExampleTranslation": "You can buy flowers at every station."
+    },
+    {
+        "German": "jetzt",
+        "Translation": "now",
+        "Example": "Jetzt machen wir eine Pause.",
+        "ExampleTranslation": "Now we will take a break."
+    },
+    {
+        "German": "der Job, -s",
+        "Translation": "job",
+        "Example": "Jenny hat einen neuen Job bei der Post.",
+        "ExampleTranslation": "Jenny has a new job at the post office."
+    },
+    {
+        "German": "der Jugendliche, -n",
+        "Translation": "youth/young person",
+        "Example": "Viele Jugendliche kaufen gern ein.",
+        "ExampleTranslation": "Many youths like shopping."
+    },
+    {
+        "German": "jung",
+        "Translation": "young",
+        "Example": "Claudia ist 21. / Was? Noch so jung?",
+        "ExampleTranslation": "Claudia is 21. / What? Still so young?"
+    },
+    {
+        "German": "der Junge, -n",
+        "Translation": "boy",
+        "Example": "Ich habe zwei Kinder. Einen Jungen und ein Mädchen.",
+        "ExampleTranslation": "I have two children. One boy and one girl."
+    },
+    {
+        "German": "der Kaffee",
+        "Translation": "coffee",
+        "Example": "Zum Frühstück trinke ich immer Kaffee.",
+        "ExampleTranslation": "For breakfast I always drink coffee."
+    },
+    {
+        "German": "kaputt",
+        "Translation": "…",
+        "Example": "Das Glas war teuer. Es geht sehr leicht kaputt.",
+        "ExampleTranslation": "The glass was expensive. It will break very easily."
+    },
+    {
+        "German": "kaputt",
+        "Translation": "broken",
+        "Example": "Das Glas ist kaputt.",
+        "ExampleTranslation": "The glass is broken."
+    },
+    {
+        "German": "die Karte, -n",
+        "Translation": "card",
+        "Example": "Ich schreibe meinen Bekannten eine Karte aus dem Urlaub.",
+        "ExampleTranslation": "I’ll write my acquaintances a card from holiday."
+    },
+    {
+        "German": "die Karte, -n",
+        "Translation": "card",
+        "Example": "Wollen wir Karten spielen?",
+        "ExampleTranslation": "Shall we play cards?"
+    },
+    {
+        "German": "die Karte, -n",
+        "Translation": "menu",
+        "Example": "Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte.",
+        "ExampleTranslation": "I also want to eat something. Please bring me the menu."
+    },
+    {
+        "German": "(Kredit)-Karte, -n",
+        "Translation": "(credit) card",
+        "Example": "Kann ich auch mit Karte (be-) zahlen?",
+        "ExampleTranslation": "Can I also pay by card?"
+    },
+    {
+        "German": "die Kartoffel, -n",
+        "Translation": "potato",
+        "Example": "Für Pommes frites braucht man Kartoffeln.",
+        "ExampleTranslation": "For chips you need potatoes."
+    },
+    {
+        "German": "die Kasse",
+        "Translation": "till",
+        "Example": "Zahlen Sie bitte an der Kasse.",
+        "ExampleTranslation": "Please pay at the till."
+    },
+    {
+        "German": "kaufen",
+        "Translation": "to buy",
+        "Example": "Tim kauft sich ein neues Auto.",
+        "ExampleTranslation": "Tim buys himself a new car."
+    },
+    {
+        "German": "kein",
+        "Translation": "no/none",
+        "Example": "Es gibt keine Eintrittskarten mehr.",
+        "ExampleTranslation": "There are no more tickets."
+    },
+    {
+        "German": "kennen",
+        "Translation": "to know",
+        "Example": "Kennen Sie diese Frau? / Nein, leider nicht.",
+        "ExampleTranslation": "Do you know this woman? / No, unfortunately not."
+    },
+    {
+        "German": "kennenlernen",
+        "Translation": "to get to know",
+        "Example": "Wir sind neu hier. Wir möchten Sie kennenlernen.",
+        "ExampleTranslation": "We are new here. We would like to get to know you."
+    },
+    {
+        "German": "das Kind, -er",
+        "Translation": "child",
+        "Example": "Wie viele Kinder haben Sie?",
+        "ExampleTranslation": "How many children do you have?"
+    },
+    {
+        "German": "der Kindergarten",
+        "Translation": "kindergarten",
+        "Example": "Die kleine Laura geht schon in den Kindergarten.",
+        "ExampleTranslation": "Little Laura is already going to kindergarten."
+    },
+    {
+        "German": "das Kino, -s",
+        "Translation": "cinema",
+        "Example": "Wir sehen heute Abend im Kino einen schönen Film.",
+        "ExampleTranslation": "We’re watching a lovely film this evening."
+    },
+    {
+        "German": "der Kiosk",
+        "Translation": "kiosk",
+        "Example": "Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.",
+        "ExampleTranslation": "At the kiosk you can get drinks, cigarettes, and newspapers."
+    },
+    {
+        "German": "klar",
+        "Translation": "of course / naturally",
+        "Example": "Kommst du mit? / Klar!",
+        "ExampleTranslation": "Are you coming with us? / Of course!"
+    },
+    {
+        "German": "die Klasse",
+        "Translation": "class",
+        "Example": "In unserer Klasse sind fünfundzwanzig Schüler.",
+        "ExampleTranslation": "In our class there are twenty five pupils."
+    },
+    {
+        "German": "die Klasse",
+        "Translation": "class",
+        "Example": "Im Zug fahre ich immer 2. Klasse.",
+        "ExampleTranslation": "On the train I always travel in second class."
+    },
+    {
+        "German": "die Kleidung",
+        "Translation": "clothes",
+        "Example": "Wo finde ich Kleidung? / Jacken im ersten, Jeans im zweiten Stock.",
+        "ExampleTranslation": "Where can I find clothes? / Jackets on the first floor, jeans on the second."
+    },
+    {
+        "German": "klein",
+        "Translation": "small",
+        "Example": "Eltville ist eine kleine Stadt am Rhein.",
+        "ExampleTranslation": "Eltwille is a small town on the Rhine."
+    },
+    {
+        "German": "kochen",
+        "Translation": "to cook",
+        "Example": "Herr Georgi kann gut kochen.",
+        "ExampleTranslation": "Mr Georgi is good at cooking."
+    },
+    {
+        "German": "der Koffer, –",
+        "Translation": "suitcase",
+        "Example": "Ist das Ihr Koffer?",
+        "ExampleTranslation": "Is that your suitcase?"
+    },
+    {
+        "German": "der Kollege, -n",
+        "Translation": "colleague",
+        "Example": "Wie heißt die neue Kollegin?",
+        "ExampleTranslation": "What’s the new colleague called?"
+    },
+    {
+        "German": "kommen",
+        "Translation": "to come",
+        "Example": "Woher kommen Sie? / Aus Frankreich.",
+        "ExampleTranslation": "Where do you come from? / From France."
+    },
+    {
+        "German": "kommen",
+        "Translation": "to come",
+        "Example": "Kommst du mit ins Schwimmbad?",
+        "ExampleTranslation": "Are you coming with us to the pool?"
+    },
+    {
+        "German": "können",
+        "Translation": "to be able to",
+        "Example": "Ich kann Deutsch und Russisch.",
+        "ExampleTranslation": "I can speak German and Russian."
+    },
+    {
+        "German": "können",
+        "Translation": "to be able to",
+        "Example": "Können Sie mir helfen?",
+        "ExampleTranslation": "Can you help me?"
+    },
+    {
+        "German": "das Konto",
+        "Translation": "account",
+        "Example": "Das Geld überweisen wir am ersten März auf Ihr Konto.",
+        "ExampleTranslation": "We will transfer the money to your account on the first of March."
+    },
+    {
+        "German": "der Kopf",
+        "Translation": "head",
+        "Example": "Mein Kopf tut weh!",
+        "ExampleTranslation": "My head hurts!"
+    },
+    {
+        "German": "kosten",
+        "Translation": "to cost",
+        "Example": "Wie viel kostet das? / 10 Euro.",
+        "ExampleTranslation": "How much does that cost? / 10 euros."
+    },
+    {
+        "German": "krank",
+        "Translation": "ill",
+        "Example": "Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett.",
+        "ExampleTranslation": "I can’t come to work today, I’m ill in bed."
+    },
+    {
+        "German": "kriegen",
+        "Translation": "to get",
+        "Example": "Ich kriege 15 Euro in der Stunde für meine Arbeit.",
+        "ExampleTranslation": "I get 15 euros an hour for my work."
+    },
+    {
+        "German": "die Küche",
+        "Translation": "kitchen",
+        "Example": "Der neue Herd kommt in die Küche.",
+        "ExampleTranslation": "The new stove goes in the kitchen."
+    },
+    {
+        "German": "der Kuchen",
+        "Translation": "cake",
+        "Example": "Ich nehme ein Stück Kuchen.",
+        "ExampleTranslation": "I’ll have a piece of cake."
+    },
+    {
+        "German": "der Kugelschreiber",
+        "Translation": "ball-point pen",
+        "Example": "Hast du einen Kugelschreiber für mich?",
+        "ExampleTranslation": "Do you have a pen I can borrow?"
+    },
+    {
+        "German": "der Kühlschrank",
+        "Translation": "fridge",
+        "Example": "Haben wir noch Milch? / Ja, im Kühlschrank.",
+        "ExampleTranslation": "Do we still have milk? / Yes, in the fridge."
+    },
+    {
+        "German": "kulturell interessiert",
+        "Translation": "interested in culture",
+        "Example": "Ich bin kulturell interessiert. Ich gehe oft ins Museum.",
+        "ExampleTranslation": "I am interested in culture. I often go to the museum."
+    },
+    {
+        "German": "kulturell",
+        "Translation": "cultural",
+        "Example": "Die Geschichte ist kulturell wichtig.",
+        "ExampleTranslation": "History is culturally important."
+    },
+    {
+        "German": "sich kümmern",
+        "Translation": "to look after",
+        "Example": "Jede Mutter kümmert sich um ihre kleinen Kinder.",
+        "ExampleTranslation": "Every mother looks after her little children."
+    },
+    {
+        "German": "der Kunde, -n",
+        "Translation": "customer",
+        "Example": "Einen Moment, bitte. Ich habe eine Kundin.",
+        "ExampleTranslation": "One moment, please. I have a customer."
+    },
+    {
+        "German": "der Kurs, -e",
+        "Translation": "course",
+        "Example": "Der Deutschkurs geht bis zum Sommer.",
+        "ExampleTranslation": "The German course runs until summer."
+    },
+    {
+        "German": "kurz",
+        "Translation": "short",
+        "Example": "Ricardo hat kurzes Haar.",
+        "ExampleTranslation": "Ricardo has short hair."
+    },
+    {
+        "German": "lachen",
+        "Translation": "to laugh",
+        "Example": "Die Kinder lachen viel.",
+        "ExampleTranslation": "The children laugh a lot."
+    },
+    {
+        "German": "der Laden, -ä",
+        "Translation": "shop",
+        "Example": "Im Buchladen können Sie Bücher kaufen.",
+        "ExampleTranslation": "In the bookshop you can buy books."
+    },
+    {
+        "German": "das Land, -ä, er",
+        "Translation": "country",
+        "Example": "Italien ist ein schönes Land.",
+        "ExampleTranslation": "Italy is a beautiful country."
+    },
+    {
+        "German": "lang",
+        "Translation": "long",
+        "Example": "Die Jeans ist zu lang.",
+        "ExampleTranslation": "The jeans are too long."
+    },
+    {
+        "German": "lange",
+        "Translation": "long",
+        "Example": "Wie lange fährt der Zug von Hamburg nach Berlin?",
+        "ExampleTranslation": "How long is the train journey from Hamburg to Berlin?"
+    },
+    {
+        "German": "langsam",
+        "Translation": "slow",
+        "Example": "Könnten Sie bitte etwas langsamer sprechen?",
+        "ExampleTranslation": "Can you please speak a little slower?"
+    },
+    {
+        "German": "laufen",
+        "Translation": "to walk/run",
+        "Example": "Ich möchte nicht Auto fahren, ich möchte laufen.",
+        "ExampleTranslation": "I don’t want to go by car, I want to walk."
+    },
+    {
+        "German": "laut",
+        "Translation": "loud",
+        "Example": "Nicht so laut! Das Baby schläft.",
+        "ExampleTranslation": "Not so loud! The baby is sleeping."
+    },
+    {
+        "German": "leben",
+        "Translation": "to live",
+        "Example": "Sie lebt bei ihrer Schwester.",
+        "ExampleTranslation": "She lives at her sister‘s."
+    },
+    {
+        "German": "leben",
+        "Translation": "to live",
+        "Example": "Ihre Eltern leben nicht mehr.",
+        "ExampleTranslation": "Her parents are no longer alive."
+    },
+    {
+        "German": "das Leben",
+        "Translation": "life",
+        "Example": "Das Leben in diesem Land ist teuer.",
+        "ExampleTranslation": "Life in this country is expensive."
+    },
+    {
+        "German": "die Lebensmittel (pl.)",
+        "Translation": "food",
+        "Example": "Lebensmittel bekommen Sie im Supermarkt.",
+        "ExampleTranslation": "You can get food from the supermarket."
+    },
+    {
+        "German": "ledig",
+        "Translation": "single",
+        "Example": "Sind Sie verheiratet? / Nein. Ledig.",
+        "ExampleTranslation": "Are you married? / No. Single."
+    },
+    {
+        "German": "legen",
+        "Translation": "to put",
+        "Example": "Legen Sie das Buch auf den Tisch.",
+        "ExampleTranslation": "Put the book on the table."
+    },
+    {
+        "German": "der Lehrer, –",
+        "Translation": "teacher",
+        "Example": "Unsere Deutschlehrerin heißt Frau Müller.",
+        "ExampleTranslation": "Our German teacher is called Ms Müller."
+    },
+    {
+        "German": "leicht",
+        "Translation": "light (weight)",
+        "Example": "Der Koffer ist leicht.",
+        "ExampleTranslation": "The suitcase is light."
+    },
+    {
+        "German": "leicht",
+        "Translation": "easy",
+        "Example": "Deutsch ist nicht leicht.",
+        "ExampleTranslation": "German is not easy."
+    },
+    {
+        "German": "leider",
+        "Translation": "unfortunately",
+        "Example": "Leider kann ich nicht kommen. Ich muss zum Arzt.",
+        "ExampleTranslation": "Unfortunately I can’t come. I need to go to the doctor."
+    },
+    {
+        "German": "leise",
+        "Translation": "quiet",
+        "Example": "Seid leise. Die anderen schlafen schon.",
+        "ExampleTranslation": "Be quiet. The others are already asleep."
+    },
+    {
+        "German": "lernen",
+        "Translation": "to learn",
+        "Example": "Wie lange lernen Sie schon Deutsch?",
+        "ExampleTranslation": "How long have you been learning German?"
+    },
+    {
+        "German": "lesen",
+        "Translation": "to read",
+        "Example": "Ich lese ein Buch von García Márquez.",
+        "ExampleTranslation": "I’m reading a book by García Márquez."
+    },
+    {
+        "German": "letzt-",
+        "Translation": "last",
+        "Example": "Morgen ist der letzte Kurstag.",
+        "ExampleTranslation": "Tomorrow is the last day of the course."
+    },
+    {
+        "German": "die Leute (pl.)",
+        "Translation": "people",
+        "Example": "In der Disko sind viele Leute.",
+        "ExampleTranslation": "There are a lot of people at the disco."
+    },
+    {
+        "German": "das Licht",
+        "Translation": "light",
+        "Example": "Wo macht man hier das Licht an?",
+        "ExampleTranslation": "Where do you switch on the light here?"
+    },
+    {
+        "German": "lieb-",
+        "Translation": "dear",
+        "Example": "Liebe Susanne, lieber Hans,",
+        "ExampleTranslation": "Dear Susanne, dear Hans,"
+    },
+    {
+        "German": "lieben",
+        "Translation": "to love",
+        "Example": "Ich liebe dich!",
+        "ExampleTranslation": "I love you!"
+    },
+    {
+        "German": "lieber",
+        "Translation": "to prefer",
+        "Example": "Sie fährt lieber mit der Bahn.",
+        "ExampleTranslation": "She prefers to travel by train."
+    },
+    {
+        "German": "Lieblings-",
+        "Translation": "favourite",
+        "Example": "Mein Lieblingsfilm ist „Schwarze Augen“.",
+        "ExampleTranslation": "My favourite film is “Dark Eyes”."
+    },
+    {
+        "German": "das Lied, -er",
+        "Translation": "song",
+        "Example": "Welches ist dein Lieblingslied?",
+        "ExampleTranslation": "Which is your favourite song?"
+    },
+    {
+        "German": "liegen",
+        "Translation": "to lie",
+        "Example": "Um neun Uhr liegt Judith noch im Bett.",
+        "ExampleTranslation": "At 9 am Judith is still (lying) in bed."
+    },
+    {
+        "German": "liegen",
+        "Translation": "to lie / be located",
+        "Example": "Frankfurt liegt am Main.",
+        "ExampleTranslation": "Frankfurt lies on the Main."
+    },
+    {
+        "German": "links",
+        "Translation": "left",
+        "Example": "Gehen Sie die nächste Straße links.",
+        "ExampleTranslation": "Go down the next street on the left."
+    },
+    {
+        "German": "der Lkw, -s",
+        "Translation": "HGV",
+        "Example": "Dieser Lastkraftwagen ist sehr groß.",
+        "ExampleTranslation": "That heavy goods vehicle is very large."
+    },
+    {
+        "German": "das Lokal",
+        "Translation": "pub",
+        "Example": "In unserer Straße gibt es ein neues Lokal.",
+        "ExampleTranslation": "There is a new pub on our street."
+    },
+    {
+        "German": "die Lösung, -en",
+        "Translation": "solution",
+        "Example": "Die Lösung ist ganz einfach.",
+        "ExampleTranslation": "The solution is quite simple."
+    },
+    {
+        "German": "lustig",
+        "Translation": "funny",
+        "Example": "Frau Mertens ist lustig. Sie lacht immer.",
+        "ExampleTranslation": "Ms Mertens is funny. She is always laughing."
+    },
+    {
+        "German": "machen",
+        "Translation": "to do",
+        "Example": "Was machst du heute Abend?",
+        "ExampleTranslation": "What are you doing this evening?"
+    },
+    {
+        "German": "machen",
+        "Translation": "to make",
+        "Example": "Ich muss jetzt das Essen machen.",
+        "ExampleTranslation": "I need to make the food now."
+    },
+    {
+        "German": "machen",
+        "Translation": "to come to",
+        "Example": "Das macht 5 Euro 95.",
+        "ExampleTranslation": "That comes to 5 euros 95."
+    },
+    {
+        "German": "machen",
+        "Translation": "…",
+        "Example": "Das macht nichts.",
+        "ExampleTranslation": "It doesn't matter."
+    },
+    {
+        "German": "das Mädchen, –",
+        "Translation": "girl",
+        "Example": "Familie Kurz bekommt ein Baby. / Junge oder Mädchen?",
+        "ExampleTranslation": "The Kurz family are expecting a new baby. / Boy or girl?"
+    },
+    {
+        "German": "man",
+        "Translation": "one / impersonal ‘you’",
+        "Example": "Hier darf man nicht rauchen.",
+        "ExampleTranslation": "You may not smoke here."
+    },
+    {
+        "German": "der Mann, -ä, er",
+        "Translation": "man / husband",
+        "Example": "Mein Mann arbeitet bei der Polizei.",
+        "ExampleTranslation": "My husband works for the police."
+    },
+    {
+        "German": "männlich",
+        "Translation": "male",
+        "Example": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+        "ExampleTranslation": "Please tick “female” or “male”."
+    },
+    {
+        "German": "die Maschine, -n",
+        "Translation": "machine",
+        "Example": "Die Waschmaschine ist günstig.",
+        "ExampleTranslation": "The washing machine is cheap."
+    },
+    {
+        "German": "das Meer",
+        "Translation": "sea",
+        "Example": "Wir machen Urlaub am Meer.",
+        "ExampleTranslation": "We are holidaying by the sea."
+    },
+    {
+        "German": "mehr",
+        "Translation": "more",
+        "Example": "Dieses Auto kostet 1.000 Euro mehr als das andere.",
+        "ExampleTranslation": "This car costs 1000 euros more than the other."
+    },
+    {
+        "German": "mein",
+        "Translation": "my",
+        "Example": "Mein Vater ist Arzt.",
+        "ExampleTranslation": "My father is a doctor."
+    },
+    {
+        "German": "meist-",
+        "Translation": "most",
+        "Example": "Die meisten Norddeutschen sind sehr groß.",
+        "ExampleTranslation": "Most northern Germans are very tall."
+    },
+    {
+        "German": "der Mensch, -en",
+        "Translation": "people",
+        "Example": "Die Menschen sind hier anders als bei uns.",
+        "ExampleTranslation": "The people here are different than at home."
+    },
+    {
+        "German": "mieten",
+        "Translation": "to rent",
+        "Example": "Ich möchte ein Auto mieten.",
+        "ExampleTranslation": "I would like to rent a car."
+    },
+    {
+        "German": "die Miete",
+        "Translation": "rent",
+        "Example": "Die Miete für diese Wohnung ist 600 Euro.",
+        "ExampleTranslation": "The rent for this flat is 600 euros."
+    },
+    {
+        "German": "die Milch",
+        "Translation": "milk",
+        "Example": "Die Milch steht im Kühlschrank.",
+        "ExampleTranslation": "The milk is in the fridge."
+    },
+    {
+        "German": "mit",
+        "Translation": "with",
+        "Example": "Trinken Sie den Kaffee mit Milch?",
+        "ExampleTranslation": "Do you take milk with your coffee?"
+    },
+    {
+        "German": "mitbringen",
+        "Translation": "to bring with one / to get (sth. for sb.)",
+        "Example": "Ich gehe einkaufen. Soll ich dir was mitbringen?",
+        "ExampleTranslation": "I’m going shopping. Should I get you anything?"
+    },
+    {
+        "German": "mitkommen",
+        "Translation": "to come with",
+        "Example": "Ich gehe ins Kino. Kommst du mit?",
+        "ExampleTranslation": "I’m going to the cinema. Are you coming with me?"
+    },
+    {
+        "German": "mitmachen",
+        "Translation": "to join in",
+        "Example": "Warum macht ihr nicht mit?",
+        "ExampleTranslation": "Why don‘t you join in?"
+    },
+    {
+        "German": "mitnehmen",
+        "Translation": "to take with",
+        "Example": "Nehmen wir meine Schwester ins Kino mit?",
+        "ExampleTranslation": "Are we taking my sister with us to the cinema?"
+    },
+    {
+        "German": "die Mitte",
+        "Translation": "middle",
+        "Example": "Der Lehrer steht in der Mitte des Klassenzimmers.",
+        "ExampleTranslation": "The teacher stands in the middle of the classroom."
+    },
+    {
+        "German": "die Möbel (pl.)",
+        "Translation": "furniture",
+        "Example": "Sind die Möbel neu?",
+        "ExampleTranslation": "Is the furniture new?"
+    },
+    {
+        "German": "möchten",
+        "Translation": "would like to",
+        "Example": "Was möchten Sie trinken?",
+        "ExampleTranslation": "What would you like to drink?"
+    },
+    {
+        "German": "mögen",
+        "Translation": "to like",
+        "Example": "Magst du Kaffee oder Tee?",
+        "ExampleTranslation": "Do you like coffee or tea?"
+    },
+    {
+        "German": "möglich",
+        "Translation": "possible",
+        "Example": "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.",
+        "ExampleTranslation": "With this ticket, it is possible to travel after 9 am."
+    },
+    {
+        "German": "der Moment",
+        "Translation": "moment",
+        "Example": "Moment mal bitte!",
+        "ExampleTranslation": "Just a moment, please!"
+    },
+    {
+        "German": "der Moment",
+        "Translation": "moment",
+        "Example": "Einen Moment bitte.",
+        "ExampleTranslation": "One moment, please."
+    },
+    {
+        "German": "morgen",
+        "Translation": "tomorrow",
+        "Example": "Morgen beginnt die Schule um 10 Uhr.",
+        "ExampleTranslation": "Tomorrow school begins at 10 am."
+    },
+    {
+        "German": "müde",
+        "Translation": "tired",
+        "Example": "Ich bin müde. Ich gehe schlafen.",
+        "ExampleTranslation": "I’m tired. I’m going to sleep."
+    },
+    {
+        "German": "der Mund",
+        "Translation": "mouth",
+        "Example": "Öffnen Sie den Mund.",
+        "ExampleTranslation": "Open your mouth."
+    },
+    {
+        "German": "müssen",
+        "Translation": "to have to",
+        "Example": "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.",
+        "ExampleTranslation": "I have to work from 8 am to 6 pm every day."
+    },
+    {
+        "German": "die Mutter, -ü",
+        "Translation": "mother",
+        "Example": "Frau Berghäuser ist die Mutter von Michaela.",
+        "ExampleTranslation": "Ms Berghäuser is the mother of Michaela."
+    },
+    {
+        "German": "nach",
+        "Translation": "to (somewhere)",
+        "Example": "Ich gehe jetzt nach Hause.",
+        "ExampleTranslation": "I’m going home now."
+    },
+    {
+        "German": "nach",
+        "Translation": "to (somewhere)",
+        "Example": "Ich fliege nach München.",
+        "ExampleTranslation": "I’m flying to Munich."
+    },
+    {
+        "German": "nach",
+        "Translation": "after / past (time)",
+        "Example": "Es ist schon 5 nach 12.",
+        "ExampleTranslation": "It is already 5 past 12."
+    },
+    {
+        "German": "nächst-",
+        "Translation": "next",
+        "Example": "Sehen wir uns nächste Woche?",
+        "ExampleTranslation": "Are we seeing each other next week?"
+    },
+    {
+        "German": "der Name, -n",
+        "Translation": "name",
+        "Example": "Mein Name ist Thomas Schmidt.",
+        "ExampleTranslation": "My name is Thomas Schmidt."
+    },
+    {
+        "German": "der Name, -n",
+        "Translation": "name",
+        "Example": "Mein Vorname ist Thomas, Schmidt ist der Familienname.",
+        "ExampleTranslation": "My first name is Thomas, Schmidt is the surname."
+    },
+    {
+        "German": "nehmen",
+        "Translation": "to have (food/drink)",
+        "Example": "Heute gibt es Hähnchen. Das nehme ich.",
+        "ExampleTranslation": "There is chicken today. I’ll have that."
+    },
+    {
+        "German": "nehmen",
+        "Translation": "to take",
+        "Example": "Ich nehme den Bus.",
+        "ExampleTranslation": "I take the bus."
+    },
+    {
+        "German": "nein",
+        "Translation": "no",
+        "Example": "Fährst du auch nach München? / Nein, ich habe keine Zeit.",
+        "ExampleTranslation": "Are you also travelling to Munich? / No, I don‘t have time."
+    },
+    {
+        "German": "neu",
+        "Translation": "new",
+        "Example": "Ich bin der neue Kollege.",
+        "ExampleTranslation": "I am the new colleague."
+    },
+    {
+        "German": "neu",
+        "Translation": "new",
+        "Example": "Wir haben eine neue Wohnung.",
+        "ExampleTranslation": "We have a new flat."
+    },
+    {
+        "German": "nicht",
+        "Translation": "not",
+        "Example": "Das stimmt nicht.",
+        "ExampleTranslation": "That’s not right."
+    },
+    {
+        "German": "nicht",
+        "Translation": "no",
+        "Example": "Das ist doch schön, nicht?",
+        "ExampleTranslation": "That’s really beautiful, no?"
+    },
+    {
+        "German": "nichts",
+        "Translation": "…",
+        "Example": "Das macht nichts.",
+        "ExampleTranslation": "It's okay, don't worry."
+    },
+    {
+        "German": "nichts",
+        "Translation": "nothing",
+        "Example": "Hier kaufe ich nichts. Der Laden gefällt mir nicht.",
+        "ExampleTranslation": "I won’t buy anything here. I don’t like the shop."
+    },
+    {
+        "German": "nie",
+        "Translation": "never",
+        "Example": "Er kommt nie pünktlich.",
+        "ExampleTranslation": "He is never on time."
+    },
+    {
+        "German": "noch",
+        "Translation": "still",
+        "Example": "Vielleicht kommt er noch.",
+        "ExampleTranslation": "Perhaps he will still come."
+    },
+    {
+        "German": "noch",
+        "Translation": "another",
+        "Example": "Wir warten noch fünf Minuten.",
+        "ExampleTranslation": "We will wait another five minutes."
+    },
+    {
+        "German": "noch",
+        "Translation": "still",
+        "Example": "Ich habe noch 20 Euro.",
+        "ExampleTranslation": "I still have 20 euros."
+    },
+    {
+        "German": "normal",
+        "Translation": "normal",
+        "Example": "75 kg. Sein Gewicht ist normal.",
+        "ExampleTranslation": "75 kg. His weight is normal."
+    },
+    {
+        "German": "die Nummer, -n",
+        "Translation": "number",
+        "Example": "Welche Hausnummer haben Sie?",
+        "ExampleTranslation": "Which house number is yours?"
+    },
+    {
+        "German": "die Nummer, -n",
+        "Translation": "number",
+        "Example": "Können Sie mir Ihre Nummer geben?",
+        "ExampleTranslation": "Can you give me your number?"
+    },
+    {
+        "German": "nur",
+        "Translation": "only",
+        "Example": "Ich möchte nur ein Glas Wasser.",
+        "ExampleTranslation": "I only want a glass of water."
+    },
+    {
+        "German": "oben",
+        "Translation": "upstairs",
+        "Example": "Ich wohne oben.",
+        "ExampleTranslation": "I live upstairs."
+    },
+    {
+        "German": "das Obst",
+        "Translation": "fruit",
+        "Example": "Im Sommer ist das Obst billig.",
+        "ExampleTranslation": "In summer fruit is cheap."
+    },
+    {
+        "German": "oder",
+        "Translation": "or",
+        "Example": "Wann können Sie kommen – heute oder morgen?",
+        "ExampleTranslation": "When can you come – today or tomorrow?"
+    },
+    {
+        "German": "öffnen",
+        "Translation": "to open",
+        "Example": "Ich öffne die Tür.",
+        "ExampleTranslation": "I open the door."
+    },
+    {
+        "German": "geöffnet",
+        "Translation": "open",
+        "Example": "Der Laden ist samstags bis 16:00 Uhr geöffnet.",
+        "ExampleTranslation": "The shop is open until 4 pm on Saturdays."
+    },
+    {
+        "German": "oft",
+        "Translation": "often",
+        "Example": "Petra treffe ich oft.",
+        "ExampleTranslation": "I often meet Petra."
+    },
+    {
+        "German": "ohne",
+        "Translation": "without",
+        "Example": "Ohne Geld kann er nichts kaufen.",
+        "ExampleTranslation": "Without money he can’t buy anything."
+    },
+    {
+        "German": "das Öl",
+        "Translation": "oil",
+        "Example": "Den Salat machen wir ohne Öl.",
+        "ExampleTranslation": "We make the salad without oil."
+    },
+    {
+        "German": "die Oma, -s",
+        "Translation": "grandmother",
+        "Example": "Meine Oma ist schon tot.",
+        "ExampleTranslation": "My grandmother is already dead."
+    },
+    {
+        "German": "der Opa, -s",
+        "Translation": "grandfather",
+        "Example": "Mein Opa heißt Hans.",
+        "ExampleTranslation": "My grandfather is called Hans."
+    },
+    {
+        "German": "die Ordnung",
+        "Translation": "…",
+        "Example": "Das ist in Ordnung.",
+        "ExampleTranslation": "That is in order/acceptable/fine."
+    },
+    {
+        "German": "der Ort, -e",
+        "Translation": "location / place",
+        "Example": "Der Ort liegt am Meer.",
+        "ExampleTranslation": "That place is by the sea."
+    },
+    {
+        "German": "das Papier",
+        "Translation": "paper",
+        "Example": "Hier sind Papier und Bleistift.",
+        "ExampleTranslation": "Here is a pencil and paper."
+    },
+    {
+        "German": "die Papiere (pl.)",
+        "Translation": "papers",
+        "Example": "Haben Sie Ihre Papiere dabei?",
+        "ExampleTranslation": "Do you have your papers with you?"
+    },
+    {
+        "German": "der Partner, -/",
+        "Translation": "(male) partner",
+        "Example": "Er is mein Partner.",
+        "ExampleTranslation": "He is my partner."
+    },
+    {
+        "German": "die Partnerin, -nen",
+        "Translation": "(female) partner",
+        "Example": "Sie ist meine Partnerin.",
+        "ExampleTranslation": "She is my partner."
+    },
+    {
+        "German": "die Party",
+        "Translation": "party",
+        "Example": "Heute Abend machen wir eine Party.",
+        "ExampleTranslation": "This evening we are having a party."
+    },
+    {
+        "German": "der Pass, -ä, e",
+        "Translation": "passport",
+        "Example": "Im Hotel brauchst du deinen Pass.",
+        "ExampleTranslation": "In the hotel you need your passport."
+    },
+    {
+        "German": "die Pause, -n",
+        "Translation": "break",
+        "Example": "Von 12:00 bis 12:30 Uhr haben wir Mittagspause.",
+        "ExampleTranslation": "From 12 until 12:30 pm we have a lunch break."
+    },
+    {
+        "German": "der Plan, -ä, e",
+        "Translation": "map / plan",
+        "Example": "Ich kaufe mir einen Stadtplan.",
+        "ExampleTranslation": "I will buy myself a map of the town."
+    },
+    {
+        "German": "der Platz, -ä, e",
+        "Translation": "seat",
+        "Example": "Tut mir leid, der Platz ist besetzt.",
+        "ExampleTranslation": "I’m sorry, this seat is taken."
+    },
+    {
+        "German": "der Platz, -ä, e",
+        "Translation": "seat",
+        "Example": "Bitte nehmen Sie Platz!",
+        "ExampleTranslation": "Please take a seat!"
+    },
+    {
+        "German": "der Platz, -ä, e",
+        "Translation": "square",
+        "Example": "Ich wohne neben dem Platz.",
+        "ExampleTranslation": "I live next to the square."
+    },
+    {
+        "German": "die Polizei",
+        "Translation": "police",
+        "Example": "Holen Sie die Polizei!",
+        "ExampleTranslation": "Fetch the police!"
+    },
+    {
+        "German": "die Pommes frites (pl.)",
+        "Translation": "chips",
+        "Example": "Die Kinder essen Hähnchen mit Pommes frites.",
+        "ExampleTranslation": "The children are eating chicken and chips."
+    },
+    {
+        "German": "die Post",
+        "Translation": "post office",
+        "Example": "Wo ist die Post, bitte?",
+        "ExampleTranslation": "Where is the post office, please?"
+    },
+    {
+        "German": "die Post",
+        "Translation": "post / mail",
+        "Example": "Ist Post da?",
+        "ExampleTranslation": "Is there post?"
+    },
+    {
+        "German": "die Postleitzahl",
+        "Translation": "postcode",
+        "Example": "Wie ist Ihre Postleitzahl?",
+        "ExampleTranslation": "What is your postcode?"
+    },
+    {
+        "German": "das Praktikum",
+        "Translation": "internship",
+        "Example": "Ich mache ein Praktikum bei Siemens.",
+        "ExampleTranslation": "I am doing an internship at Siemens."
+    },
+    {
+        "German": "die Praxis",
+        "Translation": "practice",
+        "Example": "Die Praxis ist ab acht Uhr geöffnet.",
+        "ExampleTranslation": "The practice is open from 8 am."
+    },
+    {
+        "German": "der Preis, -e",
+        "Translation": "price",
+        "Example": "Die Preise sind hoch.",
+        "ExampleTranslation": "The prices are high."
+    },
+    {
+        "German": "das Problem, -e",
+        "Translation": "problem",
+        "Example": "Mein Problem ist die Sprache.",
+        "ExampleTranslation": "My problem is the language."
+    },
+    {
+        "German": "der Prospekt, -e",
+        "Translation": "brochure",
+        "Example": "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.",
+        "ExampleTranslation": "Please send me a brochure for your hotel."
+    },
+    {
+        "German": "die Prüfung",
+        "Translation": "examination",
+        "Example": "Die Prüfung ist am Montag um 8:00 Uhr.",
+        "ExampleTranslation": "The exam is on Monday at 8 am."
+    },
+    {
+        "German": "pünktlich",
+        "Translation": "sharp",
+        "Example": "Der Bus fährt pünktlich um acht Uhr.",
+        "ExampleTranslation": "The bus leaves at 8 am sharp."
+    },
+    {
+        "German": "pünktlich",
+        "Translation": "punctual",
+        "Example": "Herr Müller ist immer pünktlich.",
+        "ExampleTranslation": "Mr Müller is always punctual."
+    },
+    {
+        "German": "Rad fahren",
+        "Translation": "to cycle",
+        "Example": "Das Kind kann schon Rad fahren.",
+        "ExampleTranslation": "The child can already ride a bike."
+    },
+    {
+        "German": "rauchen",
+        "Translation": "to smoke",
+        "Example": "Ich rauche nicht.",
+        "ExampleTranslation": "I don’t smoke."
+    },
+    {
+        "German": "der Raum, -ä, e",
+        "Translation": "room",
+        "Example": "Der Unterricht ist in Raum 332.",
+        "ExampleTranslation": "The class is in room 332."
+    },
+    {
+        "German": "die Rechnung, -en",
+        "Translation": "bill",
+        "Example": "Die Rechnung, bitte.",
+        "ExampleTranslation": "The bill, please."
+    },
+    {
+        "German": "rechts",
+        "Translation": "right",
+        "Example": "Die Schillerstraße ist hier rechts.",
+        "ExampleTranslation": "Schillerstraße is on the right here."
+    },
+    {
+        "German": "regnen",
+        "Translation": "to rain",
+        "Example": "Heute regnet es.",
+        "ExampleTranslation": "Today it’s raining."
+    },
+    {
+        "German": "der Regen",
+        "Translation": "rain",
+        "Example": "Bei diesem Regen gehe ich nicht raus.",
+        "ExampleTranslation": "I’m not going out in this rain."
+    },
+    {
+        "German": "der Reis",
+        "Translation": "rice",
+        "Example": "Ich esse gern Reis.",
+        "ExampleTranslation": "I like eating rice."
+    },
+    {
+        "German": "reisen",
+        "Translation": "to travel",
+        "Example": "Ich reise gern.",
+        "ExampleTranslation": "I like to travel."
+    },
+    {
+        "German": "die Reise",
+        "Translation": "journey / trip",
+        "Example": "Wir machen eine Reise nach Österreich.",
+        "ExampleTranslation": "We are going on a trip to Austria."
+    },
+    {
+        "German": "das Reisebüro, -s",
+        "Translation": "travel agency",
+        "Example": "Mein Mann arbeitet im Reisebüro.",
+        "ExampleTranslation": "My husband works at a travel agency."
+    },
+    {
+        "German": "der Reiseführer",
+        "Translation": "travel guide",
+        "Example": "Ich kaufe mir einen Reiseführer von Berlin.",
+        "ExampleTranslation": "I will buy myself a travel guide for Berlin."
+    },
+    {
+        "German": "der Reiseführer",
+        "Translation": "tour guide",
+        "Example": "Unser Reiseführer heißt Peter.",
+        "ExampleTranslation": "Our tour guide is called Peter."
+    },
+    {
+        "German": "reparieren",
+        "Translation": "to repair",
+        "Example": "Er hat das Fahrrad repariert.",
+        "ExampleTranslation": "He repaired the bicycle."
+    },
+    {
+        "German": "die Reparatur",
+        "Translation": "repair",
+        "Example": "Die Reparatur ist sehr teuer.",
+        "ExampleTranslation": "The repair is very expensive."
+    },
+    {
+        "German": "das Restaurant, -s",
+        "Translation": "restaurant",
+        "Example": "Wir essen heute in einem Restaurant.",
+        "ExampleTranslation": "We are eating at a restaurant today."
+    },
+    {
+        "German": "die Rezeption",
+        "Translation": "reception",
+        "Example": "Fragen Sie bitte im Hotel an der Rezeption.",
+        "ExampleTranslation": "Please ask at the hotel reception."
+    },
+    {
+        "German": "richtig",
+        "Translation": "correct",
+        "Example": "Habe ich das richtig verstanden?",
+        "ExampleTranslation": "Have I understood that correctly?"
+    },
+    {
+        "German": "richtig",
+        "Translation": "right / correct",
+        "Example": "Das ist richtig.",
+        "ExampleTranslation": "That's right."
+    },
+    {
+        "German": "riechen",
+        "Translation": "to smell",
+        "Example": "Dieser Wein riecht gut.",
+        "ExampleTranslation": "This wine smells good."
+    },
+    {
+        "German": "ruhig",
+        "Translation": "quiet",
+        "Example": "Ich möchte ein ruhiges Zimmer.",
+        "ExampleTranslation": "I would like a quiet room."
+    },
+    {
+        "German": "der Saft",
+        "Translation": "juice",
+        "Example": "Möchtest du einen Apfelsaft?",
+        "ExampleTranslation": "Would you like an apple juice?"
+    },
+    {
+        "German": "sagen",
+        "Translation": "to say / tell",
+        "Example": "Sag mal, wie geht es dir denn?",
+        "ExampleTranslation": "Tell me, how’s it going?"
+    },
+    {
+        "German": "der Salat",
+        "Translation": "salad",
+        "Example": "Wie schmeckt dir der Salat?",
+        "ExampleTranslation": "How does the salad taste?"
+    },
+    {
+        "German": "das Salz",
+        "Translation": "salt",
+        "Example": "Entschuldigung, kann ich bitte das Salz haben?",
+        "ExampleTranslation": "Excuse me, can I have the salt please?"
+    },
+    {
+        "German": "der Satz, -ä, e",
+        "Translation": "sentence",
+        "Example": "Dieser Satz ist sehr einfach.",
+        "ExampleTranslation": "This sentence is very simple."
+    },
+    {
+        "German": "die S-Bahn",
+        "Translation": "commuter train",
+        "Example": "Ich nehme lieber die S-Bahn.",
+        "ExampleTranslation": "I prefer to take the commuter train."
+    },
+    {
+        "German": "der Schalter",
+        "Translation": "counter",
+        "Example": "Gehen Sie bitte zum Schalter drei!",
+        "ExampleTranslation": "Please go to counter 3!"
+    },
+    {
+        "German": "scheinen",
+        "Translation": "to shine",
+        "Example": "Die Sonne scheint.",
+        "ExampleTranslation": "The sun is shining."
+    },
+    {
+        "German": "schicken",
+        "Translation": "to send",
+        "Example": "Bitte schicken Sie mir eine E-Mail.",
+        "ExampleTranslation": "Please send me an email."
+    },
+    {
+        "German": "das Schild, -er",
+        "Translation": "sign",
+        "Example": "Haben Sie nicht das Schild gesehen?",
+        "ExampleTranslation": "Did you not see the sign?"
+    },
+    {
+        "German": "der Schinken, –",
+        "Translation": "ham",
+        "Example": "Ich möchte gern ein Schinkenbrot.",
+        "ExampleTranslation": "I would like a ham roll."
+    },
+    {
+        "German": "schlafen",
+        "Translation": "to sleep",
+        "Example": "Ich schlafe meistens acht Stunden.",
+        "ExampleTranslation": "I usually sleep for eight hours."
+    },
+    {
+        "German": "schlecht",
+        "Translation": "sick",
+        "Example": "Mir ist schlecht!",
+        "ExampleTranslation": "I am sick."
+    },
+    {
+        "German": "schlecht",
+        "Translation": "bad",
+        "Example": "Sie sehen schlecht aus.",
+        "ExampleTranslation": "You look bad."
+    },
+    {
+        "German": "schlecht",
+        "Translation": "bad",
+        "Example": "Wir haben schlechtes Wetter.",
+        "ExampleTranslation": "We have bad weather."
+    },
+    {
+        "German": "schließen",
+        "Translation": "to close",
+        "Example": "Bitte, schließen Sie die Tür.",
+        "ExampleTranslation": "Please close the door."
+    },
+    {
+        "German": "geschlossen",
+        "Translation": "closed",
+        "Example": "Die Bank hat am Samstag geschlossen.",
+        "ExampleTranslation": "The bank is closed on Saturday."
+    },
+    {
+        "German": "der Schluss",
+        "Translation": "…",
+        "Example": "Ich muss jetzt Schluss machen.",
+        "ExampleTranslation": "I need to finish/wrap up now."
+    },
+    {
+        "German": "der Schluss",
+        "Translation": "end",
+        "Example": "Zum Schluss gibt er uns allen die Hand.",
+        "ExampleTranslation": "At the end, he shakes everyone’s hand."
+    },
+    {
+        "German": "der Schlüssel, –",
+        "Translation": "key",
+        "Example": "Ich gebe Ihnen noch den Zimmerschlüssel.",
+        "ExampleTranslation": "I’ll give you the room key as well."
+    },
+    {
+        "German": "schmecken",
+        "Translation": "to taste",
+        "Example": "Schmeckt das gut?",
+        "ExampleTranslation": "Does that taste good?"
+    },
+    {
+        "German": "schnell",
+        "Translation": "quick / fast",
+        "Example": "Er fährt schnell.",
+        "ExampleTranslation": "He drives fast."
+    },
+    {
+        "German": "schon",
+        "Translation": "already",
+        "Example": "Ist das Essen schon fertig?",
+        "ExampleTranslation": "Is the food done already?"
+    },
+    {
+        "German": "schön",
+        "Translation": "lovely",
+        "Example": "Schönen Urlaub!",
+        "ExampleTranslation": "Have a lovely holiday!"
+    },
+    {
+        "German": "schön",
+        "Translation": "beautiful",
+        "Example": "Das ist sehr schön.",
+        "ExampleTranslation": "That is very beautiful."
+    },
+    {
+        "German": "der Schrank, -ä, e",
+        "Translation": "cupboard",
+        "Example": "Die Gläser stehen im Schrank.",
+        "ExampleTranslation": "The glasses are in the cupboard."
+    },
+    {
+        "German": "schreiben",
+        "Translation": "to write",
+        "Example": "Er schreibt jeden Tag fünfzig E-Mails.",
+        "ExampleTranslation": "He writes fifty emails a day."
+    },
+    {
+        "German": "der Schuh, -e",
+        "Translation": "shoe",
+        "Example": "Zieh die Schuhe aus!",
+        "ExampleTranslation": "Take your shoes off!"
+    },
+    {
+        "German": "die Schule",
+        "Translation": "school",
+        "Example": "Meine Tochter geht schon in die Schule.",
+        "ExampleTranslation": "My daughter is already going to school."
+    },
+    {
+        "German": "die Schule",
+        "Translation": "school",
+        "Example": "Die Schule ist gleich hier um die Ecke.",
+        "ExampleTranslation": "The school is right around the corner."
+    },
+    {
+        "German": "der Schüler, –",
+        "Translation": "pupil",
+        "Example": "In meinem Kurs sind acht Schülerinnen und fünf Schüler.",
+        "ExampleTranslation": "In my course there are 7 female pupils and 5 male pupils."
+    },
+    {
+        "German": "schwer",
+        "Translation": "heavy",
+        "Example": "Ist Ihr Gepäck sehr schwer?",
+        "ExampleTranslation": "Is your luggage very heavy?"
+    },
+    {
+        "German": "schwer",
+        "Translation": "difficult",
+        "Example": "Das ist eine schwere Arbeit.",
+        "ExampleTranslation": "That is a very difficult job."
+    },
+    {
+        "German": "die Schwester, -n",
+        "Translation": "sister",
+        "Example": "Meine Schwester kommt am Dienstag.",
+        "ExampleTranslation": "My sister is coming on Tuesday."
+    },
+    {
+        "German": "schwimmen",
+        "Translation": "to swim",
+        "Example": "Ich schwimme jeden Tag einen Kilometer.",
+        "ExampleTranslation": "I swim a kilometre every day."
+    },
+    {
+        "German": "das Schwimmbad",
+        "Translation": "swimming pool",
+        "Example": "Kommst du mit ins Schwimmbad?",
+        "ExampleTranslation": "Are you coming to the swimming pool with us?"
+    },
+    {
+        "German": "der See",
+        "Translation": "lake",
+        "Example": "Komm, wir fahren zum Starnberger See.",
+        "ExampleTranslation": "Come, we’re going to Starnberg lake."
+    },
+    {
+        "German": "sehen",
+        "Translation": "to see",
+        "Example": "Ich kann dich nicht sehen.",
+        "ExampleTranslation": "I can’t see you."
+    },
+    {
+        "German": "sehen",
+        "Translation": "to see",
+        "Example": "Ich habe diesen Jungen schon einmal gesehen.",
+        "ExampleTranslation": "I have seen this boy before."
+    },
+    {
+        "German": "die Sehenswürdigkeit, -en",
+        "Translation": "sights/attractions",
+        "Example": "Welche Sehenswürdigkeiten gibt es in Frankfurt?",
+        "ExampleTranslation": "Which sights are there to see in Frankfurt?"
+    },
+    {
+        "German": "sehr",
+        "Translation": "very",
+        "Example": "Danke sehr!",
+        "ExampleTranslation": "Thank you very much!"
+    },
+    {
+        "German": "sehr",
+        "Translation": "very",
+        "Example": "Das ist sehr schwer.",
+        "ExampleTranslation": "That is very heavy."
+    },
+    {
+        "German": "sein",
+        "Translation": "his",
+        "Example": "Herr Müller ist in seinem Zimmer.",
+        "ExampleTranslation": "Mr Müller is in his room."
+    },
+    {
+        "German": "sein",
+        "Translation": "to be",
+        "Example": "Mir ist kalt.",
+        "ExampleTranslation": "I'm cold."
+    },
+    {
+        "German": "sein",
+        "Translation": "to be",
+        "Example": "Ich bin dreiundzwanzig.",
+        "ExampleTranslation": "I am twenty three."
+    },
+    {
+        "German": "an sein",
+        "Translation": "to be on",
+        "Example": "Das Licht ist noch an.",
+        "ExampleTranslation": "The light is still on."
+    },
+    {
+        "German": "auf sein",
+        "Translation": "to be open",
+        "Example": "Das Fenster ist noch auf.",
+        "ExampleTranslation": "The window is still open."
+    },
+    {
+        "German": "weg sein",
+        "Translation": "to be gone",
+        "Example": "Herr Meier ist schon weg.",
+        "ExampleTranslation": "Mr Meier is already gone."
+    },
+    {
+        "German": "zu sein",
+        "Translation": "to be closed",
+        "Example": "Die Tür ist zu.",
+        "ExampleTranslation": "The door is closed."
+    },
+    {
+        "German": "seit",
+        "Translation": "for (an amount of time)",
+        "Example": "Ich wohne seit drei Jahren in Köln.",
+        "ExampleTranslation": "I have lived in Cologne for three years."
+    },
+    {
+        "German": "selbstständig",
+        "Translation": "independent",
+        "Example": "Er ist selbstständig.",
+        "ExampleTranslation": "He is independent."
+    },
+    {
+        "German": "sich",
+        "Translation": "yourself",
+        "Example": "Sie müssen sich erst anmelden.",
+        "ExampleTranslation": "You must register yourself first."
+    },
+    {
+        "German": "sie",
+        "Translation": "she",
+        "Example": "Wie heißt sie?",
+        "ExampleTranslation": "What is she called?"
+    },
+    {
+        "German": "Sie",
+        "Translation": "you (polite)",
+        "Example": "Wie heißen Sie, bitte?",
+        "ExampleTranslation": "What is your name, please?"
+    },
+    {
+        "German": "sitzen",
+        "Translation": "to sit",
+        "Example": "Wo sitzen Sie?",
+        "ExampleTranslation": "Where are you sitting?"
+    },
+    {
+        "German": "so",
+        "Translation": "like this",
+        "Example": "Sie müssen das so machen!",
+        "ExampleTranslation": "You must do it like this!"
+    },
+    {
+        "German": "so",
+        "Translation": "so",
+        "Example": "Fahren Sie bitte nicht so schnell!",
+        "ExampleTranslation": "Please don’t drive so fast!"
+    },
+    {
+        "German": "so",
+        "Translation": "as",
+        "Example": "Meine Frau ist so groß wie ich.",
+        "ExampleTranslation": "My wife is as tall as me."
+    },
+    {
+        "German": "so",
+        "Translation": "so",
+        "Example": "So, das war's/wär's!",
+        "ExampleTranslation": "So, that's it!"
+    },
+    {
+        "German": "das Sofa",
+        "Translation": "sofa",
+        "Example": "Das Sofa ist neu.",
+        "ExampleTranslation": "The sofa is new."
+    },
+    {
+        "German": "sofort",
+        "Translation": "immediately",
+        "Example": "Bitte antworten Sie sofort.",
+        "ExampleTranslation": "Please answer immediately."
+    },
+    {
+        "German": "der Sohn, -ö, e",
+        "Translation": "son",
+        "Example": "Das ist Hans, mein Sohn.",
+        "ExampleTranslation": "That is Hans, my son."
+    },
+    {
+        "German": "sollen",
+        "Translation": "should",
+        "Example": "Soll ich kommen?",
+        "ExampleTranslation": "Should I come?"
+    },
+    {
+        "German": "sollen",
+        "Translation": "should",
+        "Example": "Was soll ich mitbringen?",
+        "ExampleTranslation": "What should I bring with me?"
+    },
+    {
+        "German": "die Sonne",
+        "Translation": "sun",
+        "Example": "Die Sonne scheint.",
+        "ExampleTranslation": "The sun is shining."
+    },
+    {
+        "German": "spät",
+        "Translation": "late",
+        "Example": "Es ist schon spät, ich muss gehen.",
+        "ExampleTranslation": "It is already late, I need to go."
+    },
+    {
+        "German": "später",
+        "Translation": "later",
+        "Example": "Das können wir später machen.",
+        "ExampleTranslation": "We can do that later."
+    },
+    {
+        "German": "die Speisekarte",
+        "Translation": "menu",
+        "Example": "Bringen Sie mir die Speisekarte, bitte.",
+        "ExampleTranslation": "Bring me the menu, please."
+    },
+    {
+        "German": "spielen",
+        "Translation": "to play",
+        "Example": "Die Kinder spielen draußen.",
+        "ExampleTranslation": "The children are playing outside."
+    },
+    {
+        "German": "spielen",
+        "Translation": "to play",
+        "Example": "Spielen Sie Karten?",
+        "ExampleTranslation": "Do you play cards?"
+    },
+    {
+        "German": "der Sport",
+        "Translation": "sport",
+        "Example": "Ich mache viel Sport.",
+        "ExampleTranslation": "I do a lot of sport."
+    },
+    {
+        "German": "die Sprache, -n",
+        "Translation": "language",
+        "Example": "Welche Sprachen sprichst du?",
+        "ExampleTranslation": "Which languages do you speak?"
+    },
+    {
+        "German": "sprechen",
+        "Translation": "to speak",
+        "Example": "Kann ich (mit) Herrn Klein sprechen?",
+        "ExampleTranslation": "Can I speak with Mr Klein?"
+    },
+    {
+        "German": "die Stadt, -ä, e",
+        "Translation": "town / city",
+        "Example": "Heidelberg ist eine alte Stadt.",
+        "ExampleTranslation": "Heidelberg is an old town."
+    },
+    {
+        "German": "stehen",
+        "Translation": "to be (written)",
+        "Example": "Ich glaube es nicht, aber es steht in der Zeitung.",
+        "ExampleTranslation": "I don’t believe it, but it says so in the paper."
+    },
+    {
+        "German": "stehen",
+        "Translation": "to be (located)",
+        "Example": "Der Bus steht schon an der Haltestelle.",
+        "ExampleTranslation": "The bus is already at the stop."
+    },
+    {
+        "German": "die Stelle, -n",
+        "Translation": "job / position",
+        "Example": "Ich habe eine neue Stelle.",
+        "ExampleTranslation": "I have a new job."
+    },
+    {
+        "German": "stellen",
+        "Translation": "to put",
+        "Example": "Stell die Tasche rechts in die Ecke!",
+        "ExampleTranslation": "Put your bag on the right in the corner."
+    },
+    {
+        "German": "der Stock",
+        "Translation": "floor (of a building)",
+        "Example": "Unsere Wohnung liegt im ersten Stock.",
+        "ExampleTranslation": "Our flat is on the first floor."
+    },
+    {
+        "German": "die Straße, -n",
+        "Translation": "street",
+        "Example": "In welcher Straße wohnen Sie?",
+        "ExampleTranslation": "Which street do you live on?"
+    },
+    {
+        "German": "die Straßenbahn",
+        "Translation": "tram",
+        "Example": "Wo fährt die Straßenbahn ab?",
+        "ExampleTranslation": "From where does the tram depart?"
+    },
+    {
+        "German": "studieren",
+        "Translation": "to study",
+        "Example": "Ich studiere in Mainz.",
+        "ExampleTranslation": "I study in Mainz."
+    },
+    {
+        "German": "das Studium",
+        "Translation": "degree course",
+        "Example": "Das Studium beginnt im Oktober.",
+        "ExampleTranslation": "The degree course begins in October."
+    },
+    {
+        "German": "der Student, -en",
+        "Translation": "student",
+        "Example": "Ich bin Studentin.",
+        "ExampleTranslation": "I am a student."
+    },
+    {
+        "German": "die Stunde, -n",
+        "Translation": "hour",
+        "Example": "Ich bin in einer Stunde zurück.",
+        "ExampleTranslation": "I will be back in an hour."
+    },
+    {
+        "German": "suchen",
+        "Translation": "to look / search for",
+        "Example": "Suchst du etwas?",
+        "ExampleTranslation": "Are you looking for something?"
+    },
+    {
+        "German": "tanzen",
+        "Translation": "to dance",
+        "Example": "Tanzen Sie gern?",
+        "ExampleTranslation": "Do you like to dance?"
+    },
+    {
+        "German": "die Tasche, -n",
+        "Translation": "bag",
+        "Example": "Ich habe die Schlüssel in der Tasche.",
+        "ExampleTranslation": "I have the key in the bag."
+    },
+    {
+        "German": "das Taxi, -s",
+        "Translation": "taxi",
+        "Example": "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.",
+        "ExampleTranslation": "There are no more buses today. He is travelling by taxi."
+    },
+    {
+        "German": "der Tee",
+        "Translation": "tea",
+        "Example": "Ich trinke morgens immer Tee.",
+        "ExampleTranslation": "I always drink tea in the morning."
+    },
+    {
+        "German": "der Teil, -e",
+        "Translation": "part",
+        "Example": "Lies bitte auch den zweiten Teil.",
+        "ExampleTranslation": "Please also read the second part."
+    },
+    {
+        "German": "telefonieren",
+        "Translation": "to telephone",
+        "Example": "Darf ich mal telefonieren?",
+        "ExampleTranslation": "May I make a phone call?"
+    },
+    {
+        "German": "das Telefon",
+        "Translation": "telephone",
+        "Example": "Haben Sie ein Telefon?",
+        "ExampleTranslation": "Do you have a telephone?"
+    },
+    {
+        "German": "der Termin, -e",
+        "Translation": "appointment",
+        "Example": "Am besten machen wir sofort einen Termin.",
+        "ExampleTranslation": "It's best to make an appointment immediately."
+    },
+    {
+        "German": "der Test",
+        "Translation": "test",
+        "Example": "Der Test war einfach.",
+        "ExampleTranslation": "The test was simple."
+    },
+    {
+        "German": "teuer",
+        "Translation": "expensive",
+        "Example": "Das ist mir zu teuer.",
+        "ExampleTranslation": "That is too expensive for me."
+    },
+    {
+        "German": "der Text, -e",
+        "Translation": "text",
+        "Example": "Lesen Sie bitte diesen Text.",
+        "ExampleTranslation": "Please read this text."
+    },
+    {
+        "German": "das Thema",
+        "Translation": "topic",
+        "Example": "Wir sprechen heute über das Thema „Essen und Trinken“.",
+        "ExampleTranslation": "Today we are talking about the topic “Food and Drink”."
+    },
+    {
+        "German": "das Ticket, -s",
+        "Translation": "ticket",
+        "Example": "Wie viel kostet das Ticket?",
+        "ExampleTranslation": "How much does the ticket cost?"
+    },
+    {
+        "German": "der Tisch, -e",
+        "Translation": "table",
+        "Example": "Die Fotos liegen auf dem Tisch.",
+        "ExampleTranslation": "The photos are on the table."
+    },
+    {
+        "German": "die Tochter, -ö",
+        "Translation": "daughter",
+        "Example": "Das ist meine Tochter Katharina.",
+        "ExampleTranslation": "That is my daughter Katharina."
+    },
+    {
+        "German": "die Toilette, -en",
+        "Translation": "toilet",
+        "Example": "Wo ist die Toilette, bitte?",
+        "ExampleTranslation": "Where is the toilet, please?"
+    },
+    {
+        "German": "die Tomate, -n",
+        "Translation": "tomato",
+        "Example": "Die Tomate ist noch grün.",
+        "ExampleTranslation": "The tomato is still green."
+    },
+    {
+        "German": "tot",
+        "Translation": "dead",
+        "Example": "Sein Vater ist schon lange tot.",
+        "ExampleTranslation": "His father has been dead for a long time."
+    },
+    {
+        "German": "(sich) treffen",
+        "Translation": "to meet",
+        "Example": "Ich treffe in der Stadt einen Kollegen.",
+        "ExampleTranslation": "I am meeting a colleague in town."
+    },
+    {
+        "German": "(sich) treffen",
+        "Translation": "to meet",
+        "Example": "Wir treffen uns immer freitags.",
+        "ExampleTranslation": "We always meet on Fridays."
+    },
+    {
+        "German": "die Treppe, -n",
+        "Translation": "stairs",
+        "Example": "Die Toilette? Die Treppe hoch und dann links.",
+        "ExampleTranslation": "The toilet? Up the stairs and then left."
+    },
+    {
+        "German": "trinken",
+        "Translation": "to drink",
+        "Example": "Möchtest du etwas trinken?",
+        "ExampleTranslation": "Would you like something to drink?"
+    },
+    {
+        "German": "tschüss",
+        "Translation": "...",
+        "Example": "Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.",
+        "ExampleTranslation": "Young people mostly say “tschüss!” and not “auf Wiedersehen”."
+    },
+    {
+        "German": "tun",
+        "Translation": "to do",
+        "Example": "Ich habe noch etwas zu tun.",
+        "ExampleTranslation": "I still have something to do."
+    },
+    {
+        "German": "tun",
+        "Translation": "to do",
+        "Example": "Was tut Ihr Mann?",
+        "ExampleTranslation": "What does your husband do?"
+    },
+    {
+        "German": "über",
+        "Translation": "across",
+        "Example": "Gehen Sie hier über die Straße.",
+        "ExampleTranslation": "Go across the street here."
+    },
+    {
+        "German": "über",
+        "Translation": "above",
+        "Example": "Er wohnt im zweiten Stock über Familie Meier.",
+        "ExampleTranslation": "He lives on the second floor above the Meier family."
+    },
+    {
+        "German": "über",
+        "Translation": "over",
+        "Example": "Sind Sie über 18?",
+        "ExampleTranslation": "Are you over 18?"
+    },
+    {
+        "German": "übernachten",
+        "Translation": "to stay overnight",
+        "Example": "Du kannst bei mir übernachten.",
+        "ExampleTranslation": "You can stay at mine overnight."
+    },
+    {
+        "German": "überweisen",
+        "Translation": "to transfer",
+        "Example": "Sie können das Geld auch überweisen.",
+        "ExampleTranslation": "You can also transfer the money."
+    },
+    {
+        "German": "die Uhr",
+        "Translation": "o'clock / am / pm",
+        "Example": "Es ist vier Uhr.",
+        "ExampleTranslation": "It is four o’clock."
+    },
+    {
+        "German": "um",
+        "Translation": "at",
+        "Example": "Er kommt um sieben Uhr.",
+        "ExampleTranslation": "He is coming at seven o’clock."
+    },
+    {
+        "German": "um",
+        "Translation": "around",
+        "Example": "Da kommt er gerade um die Ecke.",
+        "ExampleTranslation": "Here he comes around the corner now."
+    },
+    {
+        "German": "umziehen",
+        "Translation": "to move (residence)",
+        "Example": "Nächsten Monat ziehen wir um.",
+        "ExampleTranslation": "Next month we are moving."
+    },
+    {
+        "German": "und",
+        "Translation": "and",
+        "Example": "Peter und Helmut sind meine Söhne.",
+        "ExampleTranslation": "Peter and Helmut are my sons."
+    },
+    {
+        "German": "unser-",
+        "Translation": "our",
+        "Example": "Das ist unsere Lehrerin.",
+        "ExampleTranslation": "That is our teacher."
+    },
+    {
+        "German": "unten",
+        "Translation": "at the bottom",
+        "Example": "Er wohnt ganz unten im Haus.",
+        "ExampleTranslation": "He lives right at the bottom of the house."
+    },
+    {
+        "German": "unter",
+        "Translation": "below",
+        "Example": "Unter uns wohnt eine Familie mit drei Kindern.",
+        "ExampleTranslation": "Below us lives a family with three children."
+    },
+    {
+        "German": "der Unterricht",
+        "Translation": "class",
+        "Example": "Wir haben Unterricht von 8:00 bis 12:00 Uhr.",
+        "ExampleTranslation": "We have classes from 8 am until 12 pm."
+    },
+    {
+        "German": "unterschreiben",
+        "Translation": "to sign",
+        "Example": "Wo muss ich unterschreiben?",
+        "ExampleTranslation": "Where do I need to sign?"
+    },
+    {
+        "German": "die Unterschrift",
+        "Translation": "signature",
+        "Example": "Hier fehlt noch Ihre Unterschrift.",
+        "ExampleTranslation": "Your signature is missing here."
+    },
+    {
+        "German": "der Urlaub",
+        "Translation": "holiday",
+        "Example": "Ich nehme im September Urlaub.",
+        "ExampleTranslation": "I’m taking holiday in September."
+    },
+    {
+        "German": "der Vater, -ä",
+        "Translation": "father",
+        "Example": "Mein Vater ist Arbeiter.",
+        "ExampleTranslation": "My father is a worker."
+    },
+    {
+        "German": "verboten",
+        "Translation": "forbidden",
+        "Example": "Hier ist Rauchen verboten.",
+        "ExampleTranslation": "Smoking is forbidden here."
+    },
+    {
+        "German": "verdienen",
+        "Translation": "to earn",
+        "Example": "Ich verdiene 1.500 Euro im Monat.",
+        "ExampleTranslation": "I earn 1,500 euros per month."
+    },
+    {
+        "German": "der Verein",
+        "Translation": "club",
+        "Example": "Es gibt einen neuen Sportverein in der Stadt.",
+        "ExampleTranslation": "There is a new sports club in the town."
+    },
+    {
+        "German": "verheiratet",
+        "Translation": "married",
+        "Example": "Ich bin verheiratet und habe drei Kinder.",
+        "ExampleTranslation": "I am married and have three children."
+    },
+    {
+        "German": "verkaufen",
+        "Translation": "to sell",
+        "Example": "Er verkauft sein altes Auto.",
+        "ExampleTranslation": "He is selling his old car."
+    },
+    {
+        "German": "der Verkäufer, –",
+        "Translation": "salesperson",
+        "Example": "Meine Mutter ist Verkäuferin im Kaufhaus.",
+        "ExampleTranslation": "My mother is a saleswoman in a department store."
+    },
+    {
+        "German": "vermieten",
+        "Translation": "to rent out",
+        "Example": "Die Wohnung ist schon vermietet.",
+        "ExampleTranslation": "The flat is already rented out."
+    },
+    {
+        "German": "der Vermieter",
+        "Translation": "landlord",
+        "Example": "Unser Vermieter heißt Huber. Er wohnt auch hier.",
+        "ExampleTranslation": "Out landlord is called Huber. He lives here, too."
+    },
+    {
+        "German": "verstehen",
+        "Translation": "to understand",
+        "Example": "Können Sie mich verstehen?",
+        "ExampleTranslation": "Can you understand me?"
+    },
+    {
+        "German": "der Verwandte, -n",
+        "Translation": "relative",
+        "Example": "Peter besucht seine Verwandten in Polen.",
+        "ExampleTranslation": "Peter visits his relatives in Poland."
+    },
+    {
+        "German": "viel",
+        "Translation": "a lot",
+        "Example": "Hier regnet es viel.",
+        "ExampleTranslation": "It rains a lot here."
+    },
+    {
+        "German": "vielleicht",
+        "Translation": "perhaps / may(be)",
+        "Example": "Ich komme vielleicht mit dem Bus.",
+        "ExampleTranslation": "I may come by bus."
+    },
+    {
+        "German": "von",
+        "Translation": "of (possessive “s\")",
+        "Example": "Das Auto von Felix ist kaputt.",
+        "ExampleTranslation": "Felix’s car is broken."
+    },
+    {
+        "German": "von",
+        "Translation": "from",
+        "Example": "Er kommt gerade von Köln/von zu Hause.",
+        "ExampleTranslation": "He’s coming from Cologne/home now."
+    },
+    {
+        "German": "vor",
+        "Translation": "ago",
+        "Example": "Der Termin war vor einer Stunde.",
+        "ExampleTranslation": "The appointment was an hour ago."
+    },
+    {
+        "German": "vor",
+        "Translation": "in front of",
+        "Example": "Das Auto steht vor der Tür.",
+        "ExampleTranslation": "The car is in front of the door."
+    },
+    {
+        "German": "der Vorname, -n",
+        "Translation": "first name",
+        "Example": "Ich heiße Müller, mein Vorname ist Eva.",
+        "ExampleTranslation": "I’m called Müller, my first name is Eva."
+    },
+    {
+        "German": "die Vorsicht",
+        "Translation": "…",
+        "Example": "Vorsicht! Da kommt ein Auto.",
+        "ExampleTranslation": "Careful! There’s a car coming."
+    },
+    {
+        "German": "die Vorsicht",
+        "Translation": "attention",
+        "Example": "Er arbeitet mit Vorsicht.",
+        "ExampleTranslation": "He works with caution."
+    },
+    {
+        "German": "(sich) vorstellen",
+        "Translation": "to introduce",
+        "Example": "Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?",
+        "ExampleTranslation": "We would like to get to know each other. Can you introduce yourself?"
+    },
+    {
+        "German": "die Vorwahl",
+        "Translation": "area code",
+        "Example": "Wie ist die Vorwahl von München?",
+        "ExampleTranslation": "What is the area code for Munich?"
+    },
+    {
+        "German": "wandern",
+        "Translation": "to hike",
+        "Example": "Wir wandern um den Chiemsee.",
+        "ExampleTranslation": "We are hiking around the Chiem lake."
+    },
+    {
+        "German": "wann",
+        "Translation": "when",
+        "Example": "Wann bist du fertig?",
+        "ExampleTranslation": "When will you be finished?"
+    },
+    {
+        "German": "wann",
+        "Translation": "when",
+        "Example": "Wann kann ich Sie anrufen?",
+        "ExampleTranslation": "When can I call you?"
+    },
+    {
+        "German": "wann",
+        "Translation": "when",
+        "Example": "Wann sind Sie geboren?",
+        "ExampleTranslation": "When were you born?"
+    },
+    {
+        "German": "warten",
+        "Translation": "to wait",
+        "Example": "Können Sie ein paar Minuten warten?",
+        "ExampleTranslation": "Can you wait a few minutes?"
+    },
+    {
+        "German": "warten",
+        "Translation": "to wait",
+        "Example": "Auf wen warten Sie?",
+        "ExampleTranslation": "Who are you waiting for?"
+    },
+    {
+        "German": "warum",
+        "Translation": "why",
+        "Example": "Warum kommt er nicht?",
+        "ExampleTranslation": "Why isn’t he coming?"
+    },
+    {
+        "German": "was",
+        "Translation": "what",
+        "Example": "Was ist das?",
+        "ExampleTranslation": "What is that?"
+    },
+    {
+        "German": "was",
+        "Translation": "what",
+        "Example": "Was möchten Sie?",
+        "ExampleTranslation": "What would you like?"
+    },
+    {
+        "German": "was für ein",
+        "Translation": "what kind of",
+        "Example": "Was für eine Farbe möchten Sie?",
+        "ExampleTranslation": "What colour would you like?"
+    },
+    {
+        "German": "(sich) waschen",
+        "Translation": "to wash",
+        "Example": "Wo kann ich mir die Hände waschen?",
+        "ExampleTranslation": "Where can I wash my hands?"
+    },
+    {
+        "German": "(sich) waschen",
+        "Translation": "to wash",
+        "Example": "Ich muss morgen waschen.",
+        "ExampleTranslation": "I need to do laundry tomorrow."
+    },
+    {
+        "German": "das Wasser",
+        "Translation": "water",
+        "Example": "Ein Glas Wasser, bitte.",
+        "ExampleTranslation": "A glass of water, please."
+    },
+    {
+        "German": "weh tun",
+        "Translation": "to hurt",
+        "Example": "Ich muss zum Arzt. Mein Bein tut weh.",
+        "ExampleTranslation": "I need to go to the doctor. My leg hurts."
+    },
+    {
+        "German": "weiblich",
+        "Translation": "female",
+        "Example": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+        "ExampleTranslation": "Please tick “female” or “male”."
+    },
+    {
+        "German": "der Wein",
+        "Translation": "wine",
+        "Example": "Nein danke, ich möchte keinen Wein.",
+        "ExampleTranslation": "No thank you, I don’t want any wine."
+    },
+    {
+        "German": "weit",
+        "Translation": "far",
+        "Example": "Zum Bahnhof ist es nicht weit.",
+        "ExampleTranslation": "It is not far to the station."
+    },
+    {
+        "German": "weiter",
+        "Translation": "further",
+        "Example": "Der Bus fährt nicht weiter.",
+        "ExampleTranslation": "The bus doesn’t go any further."
+    },
+    {
+        "German": "welch-",
+        "Translation": "which",
+        "Example": "Welches Buch möchtest du?",
+        "ExampleTranslation": "Which book would you like?"
+    },
+    {
+        "German": "die Welt",
+        "Translation": "world",
+        "Example": "Es gibt viele Probleme auf der Welt.",
+        "ExampleTranslation": "There are many problems in the world."
+    },
+    {
+        "German": "wenig",
+        "Translation": "little / not very much",
+        "Example": "Ich habe leider nur wenig verstanden.",
+        "ExampleTranslation": "Unfortunately I didn't understand very much."
+    },
+    {
+        "German": "wenig",
+        "Translation": "little",
+        "Example": "Er verdient wenig.",
+        "ExampleTranslation": "He earns little."
+    },
+    {
+        "German": "wer",
+        "Translation": "who",
+        "Example": "Wer ist das?",
+        "ExampleTranslation": "Who is that?"
+    },
+    {
+        "German": "werden",
+        "Translation": "to become",
+        "Example": "Mein Sohn will Arzt werden.",
+        "ExampleTranslation": "My son wants to become a doctor."
+    },
+    {
+        "German": "das Wetter",
+        "Translation": "weather",
+        "Example": "Wir hatten schlechtes Wetter.",
+        "ExampleTranslation": "We had bad weather."
+    },
+    {
+        "German": "wichtig",
+        "Translation": "important",
+        "Example": "Dieses Formular ist sehr wichtig.",
+        "ExampleTranslation": "This form is very important."
+    },
+    {
+        "German": "wie",
+        "Translation": "what",
+        "Example": "Wie heißt du?",
+        "ExampleTranslation": "What are you called?"
+    },
+    {
+        "German": "wie",
+        "Translation": "like",
+        "Example": "Er schreibt wie ein Kind.",
+        "ExampleTranslation": "He writes like a child."
+    },
+    {
+        "German": "wie",
+        "Translation": "as",
+        "Example": "Meine Frau ist so groß wie ich.",
+        "ExampleTranslation": "My wife is as tall as me."
+    },
+    {
+        "German": "wie",
+        "Translation": "how",
+        "Example": "Wie soll ich das machen?",
+        "ExampleTranslation": "How should I do that?"
+    },
+    {
+        "German": "wie",
+        "Translation": "how",
+        "Example": "Wie groß ist die Wohnung?",
+        "ExampleTranslation": "How big is the flat?"
+    },
+    {
+        "German": "wie",
+        "Translation": "…",
+        "Example": "Wie bitte?",
+        "ExampleTranslation": "Pardon?"
+    },
+    {
+        "German": "wie",
+        "Translation": "how",
+        "Example": "Wie lange bist du schon hier?",
+        "ExampleTranslation": "How long have you been here already?"
+    },
+    {
+        "German": "wiederholen",
+        "Translation": "to repeat",
+        "Example": "Können Sie das bitte wiederholen?",
+        "ExampleTranslation": "Can you repeat that, please?"
+    },
+    {
+        "German": "das Wiederhören",
+        "Translation": "…",
+        "Example": "Auf Wiederhören!",
+        "ExampleTranslation": "Goodbye!"
+    },
+    {
+        "German": "das Wiedersehen",
+        "Translation": "…",
+        "Example": "Auf Wiedersehen!",
+        "ExampleTranslation": "Goodbye!"
+    },
+    {
+        "German": "wie viel",
+        "Translation": "how much",
+        "Example": "Wie viel Milch nehmen Sie?",
+        "ExampleTranslation": "How much milk do you take?"
+    },
+    {
+        "German": "willkommen",
+        "Translation": "…",
+        "Example": "Herzlich willkommen!",
+        "ExampleTranslation": "Welcome!"
+    },
+    {
+        "German": "der Wind",
+        "Translation": "wind",
+        "Example": "Der Wind kommt aus Osten.",
+        "ExampleTranslation": "The wind is coming from the east."
+    },
+    {
+        "German": "wir",
+        "Translation": "we",
+        "Example": "Wir lernen Deutsch.",
+        "ExampleTranslation": "We are learning German."
+    },
+    {
+        "German": "wissen",
+        "Translation": "to know",
+        "Example": "Weißt du, wie er heißt?",
+        "ExampleTranslation": "Do you know what he is called?"
+    },
+    {
+        "German": "wo",
+        "Translation": "where",
+        "Example": "Wo waren Sie im Urlaub?",
+        "ExampleTranslation": "Where were you on holiday?"
+    },
+    {
+        "German": "wo",
+        "Translation": "where",
+        "Example": "Wo ist die Post?",
+        "ExampleTranslation": "Where is the post office?"
+    },
+    {
+        "German": "wo",
+        "Translation": "where",
+        "Example": "Wo sind Sie geboren?",
+        "ExampleTranslation": "Where were you born?"
+    },
+    {
+        "German": "woher",
+        "Translation": "from where",
+        "Example": "Woher kommen Sie?",
+        "ExampleTranslation": "Where do you come from?"
+    },
+    {
+        "German": "wohin",
+        "Translation": "to where",
+        "Example": "Wohin fährt dieser Bus?",
+        "ExampleTranslation": "Where does this bus go?"
+    },
+    {
+        "German": "wohin",
+        "Translation": "to where",
+        "Example": "Wohin wollen Sie am Wochenende?",
+        "ExampleTranslation": "Where do you want to go this weekend?"
+    },
+    {
+        "German": "wohnen",
+        "Translation": "to live",
+        "Example": "Ich wohne in München.",
+        "ExampleTranslation": "I live in Munich."
+    },
+    {
+        "German": "die Wohnung, -en",
+        "Translation": "flat",
+        "Example": "Seit wann haben Sie diese Wohnung?",
+        "ExampleTranslation": "How long have you had this flat?"
+    },
+    {
+        "German": "wollen",
+        "Translation": "to want",
+        "Example": "Wollen Sie einen Kaffee trinken?",
+        "ExampleTranslation": "Do you want to get a coffee?"
+    },
+    {
+        "German": "das Wort, -ö, er/-e",
+        "Translation": "word",
+        "Example": "Ich kenne das Wort nicht.",
+        "ExampleTranslation": "I don’t know that word."
+    },
+    {
+        "German": "wunderbar",
+        "Translation": "wonderful",
+        "Example": "Das Essen schmeckt wunderbar.",
+        "ExampleTranslation": "The food tastes wonderful."
+    },
+    {
+        "German": "zahlen",
+        "Translation": "to pay",
+        "Example": "Wir möchten zahlen, bitte!",
+        "ExampleTranslation": "We’d like to pay, please!"
+    },
+    {
+        "German": "die Zeit",
+        "Translation": "time",
+        "Example": "Ich habe heute keine Zeit.",
+        "ExampleTranslation": "I have no time today"
+    },
+    {
+        "German": "zurzeit",
+        "Translation": "at the moment",
+        "Example": "Zurzeit habe ich sehr viel zu tun.",
+        "ExampleTranslation": "I have a lot to do at the moment."
+    },
+    {
+        "German": "die Zeitung, -en",
+        "Translation": "newspaper",
+        "Example": "Ich lese gern Zeitung.",
+        "ExampleTranslation": "I like to read the newspaper."
+    },
+    {
+        "German": "die Zigarette, -n",
+        "Translation": "cigarette",
+        "Example": "Wie teuer sind die Zigaretten?",
+        "ExampleTranslation": "How expensive are the cigarettes?"
+    },
+    {
+        "German": "das Zimmer, –",
+        "Translation": "room",
+        "Example": "Das Zimmer ist groß.",
+        "ExampleTranslation": "The room is large."
+    },
+    {
+        "German": "das Zimmer, –",
+        "Translation": "room",
+        "Example": "Öffne im Schlafzimmer das Fenster, bitte!",
+        "ExampleTranslation": "Open the window in the bedroom, please!"
+    },
+    {
+        "German": "das Zimmer, –",
+        "Translation": "room",
+        "Example": "Die Wohnung hat drei Zimmer.",
+        "ExampleTranslation": "The flat has three rooms."
+    },
+    {
+        "German": "das Zimmer, –",
+        "Translation": "room",
+        "Example": "Ich habe ein Zimmer bestellt.",
+        "ExampleTranslation": "I have booked a room."
+    },
+    {
+        "German": "der Zoll",
+        "Translation": "customs",
+        "Example": "Wir müssen noch durch den Zoll.",
+        "ExampleTranslation": "We still need to go through customs."
+    },
+    {
+        "German": "zu",
+        "Translation": "to",
+        "Example": "Der Bus fährt zum Bahnhof.",
+        "ExampleTranslation": "The bus goes to the station."
+    },
+    {
+        "German": "zu",
+        "Translation": "by",
+        "Example": "Ich gehe zu Fuß.",
+        "ExampleTranslation": "I will go by foot."
+    },
+    {
+        "German": "zu",
+        "Translation": "at",
+        "Example": "Ich bin zu Hause.",
+        "ExampleTranslation": "I am at home."
+    },
+    {
+        "German": "zufrieden",
+        "Translation": "happy",
+        "Example": "Ich bin mit der Wohnung zufrieden.",
+        "ExampleTranslation": "I am happy with the flat."
+    },
+    {
+        "German": "der Zug, -ü, e",
+        "Translation": "train",
+        "Example": "Ich fahre gern mit dem Zug.",
+        "ExampleTranslation": "I like to travel by train."
+    },
+    {
+        "German": "zurück",
+        "Translation": "return",
+        "Example": "Einmal Frankfurt und zurück.",
+        "ExampleTranslation": "A return to Frankfurt."
+    },
+    {
+        "German": "zurück",
+        "Translation": "back",
+        "Example": "Wann kommst du zurück?",
+        "ExampleTranslation": "When are you coming back?"
+    },
+    {
+        "German": "zusammen",
+        "Translation": "together",
+        "Example": "Sollen wir zusammen essen gehen?",
+        "ExampleTranslation": "Should we go out to eat together?"
+    },
+    {
+        "German": "zusammen",
+        "Translation": "together",
+        "Example": "Das macht zusammen 2 Euro 80.",
+        "ExampleTranslation": "Together that comes to 2 euros 80."
+    },
+    {
+        "German": "zwischen",
+        "Translation": "between",
+        "Example": "Heidelberg liegt zwischen Frankfurt und Stuttgart.",
+        "ExampleTranslation": "Heidelberg is located between Frankfurt and Stuttgart."
+    },
+    {
+        "German": "zwischen",
+        "Translation": "between",
+        "Example": "Zwischen 8 und 10 Uhr bin ich zu Hause.",
+        "ExampleTranslation": "I’m at home between 8 and 10 o’clock."
+    },
+    {
+        "German": "eins",
+        "Translation": "one",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "zwei",
+        "Translation": "two",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "drei",
+        "Translation": "three",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "vier",
+        "Translation": "four",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "fünf",
+        "Translation": "five",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "sechs",
+        "Translation": "six",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "sieben",
+        "Translation": "seven",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "acht",
+        "Translation": "eight",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "neun",
+        "Translation": "nine",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "zehn",
+        "Translation": "ten",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "elf",
+        "Translation": "eleven",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "zwölf",
+        "Translation": "twelve",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "dreizehn",
+        "Translation": "thirteen",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "vierzehn",
+        "Translation": "fourteen",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "fünfzehn",
+        "Translation": "fifteen",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "sechzehn",
+        "Translation": "sixteen",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "siebzehn",
+        "Translation": "seventeen",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "achtzehn",
+        "Translation": "eighteen",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "neunzehn",
+        "Translation": "nineteen",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "zwanzig",
+        "Translation": "twenty",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "einundzwanzig",
+        "Translation": "twenty one",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "dreißig",
+        "Translation": "thirty",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "vierzig",
+        "Translation": "fourty",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "fünfzig",
+        "Translation": "fifty",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "sechzig",
+        "Translation": "sixty",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "siebzig",
+        "Translation": "seventy",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "achtzig",
+        "Translation": "eighty",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "neunzig",
+        "Translation": "ninety",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "(ein)hundert",
+        "Translation": "(one) hundred",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "hunderteins",
+        "Translation": "one hundred and one",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "zweihundert",
+        "Translation": "two hundred",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "(ein)tausend",
+        "Translation": "(one) thousand",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "eine Million, -en",
+        "Translation": "one million",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "eine Milliarde, -en",
+        "Translation": "one billion",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "erste",
+        "Translation": "first",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "zweite",
+        "Translation": "second",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "dritte",
+        "Translation": "third",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "vierte",
+        "Translation": "fourth",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "null Uhr drei",
+        "Translation": "time: 00:03",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "sieben Uhr fünfzehn",
+        "Translation": "time: 07:15",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "dreizehn Uhr siebzehn",
+        "Translation": "time: 13:17",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "vierundzwanzig Uhr",
+        "Translation": "time: 24:00",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "die Sekunde, -n",
+        "Translation": "second",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "die Minute, -n",
+        "Translation": "minute",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "die Stunde, -n",
+        "Translation": "hour",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Tag, -e",
+        "Translation": "day",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "die Woche, -e",
+        "Translation": "week",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "das Jahr, -e",
+        "Translation": "year",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein Uhr",
+        "Translation": "one o'clock",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "fünf Minuten vor/nach eins (ein Uhr)",
+        "Translation": "five to/past one (one o’clock)",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "Viertel vor/nach zwei (zwei Uhr)",
+        "Translation": "quarter to/past two (two o’clock)",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "halb drei",
+        "Translation": "half past two",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein halb; halb",
+        "Translation": "one half; half",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein Viertel; Viertel",
+        "Translation": "one quarter; quarter",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "neunzehnhundertneunundneunzig",
+        "Translation": "nineteen ninety nine",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "zweitausendvierzehn",
+        "Translation": "two thousand and fourteen",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Wochentag, -e",
+        "Translation": "weekday",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Sonntag",
+        "Translation": "Sunday",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Montag",
+        "Translation": "Monday",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Dienstag",
+        "Translation": "Tuesday",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Mittwoch",
+        "Translation": "Wednesday",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Donnerstag",
+        "Translation": "Thursday",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Freitag",
+        "Translation": "Friday",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Samstag/Sonnabend",
+        "Translation": "Saturday",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "das Wochenende",
+        "Translation": "weekend",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "am Wochenende",
+        "Translation": "at the weekend",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Tag",
+        "Translation": "day",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Morgen",
+        "Translation": "morning",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Vormittag,-e",
+        "Translation": "morning",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Mittag",
+        "Translation": "midday",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Nachmittag,-e",
+        "Translation": "afternoon",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Abend,-e",
+        "Translation": "evening",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "die Nacht,¨-e",
+        "Translation": "night",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Januar",
+        "Translation": "January",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Februar",
+        "Translation": "February",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der März",
+        "Translation": "March",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der April",
+        "Translation": "April",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Mai",
+        "Translation": "May",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Juni",
+        "Translation": "June",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Juli",
+        "Translation": "July",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der August",
+        "Translation": "August",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der September",
+        "Translation": "September",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Oktober",
+        "Translation": "October",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der November",
+        "Translation": "November",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Dezember",
+        "Translation": "December",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Frühling/das Frühjahr",
+        "Translation": "spring",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Sommer",
+        "Translation": "summer",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Herbst",
+        "Translation": "autumn",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Winter",
+        "Translation": "winter",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein Meter",
+        "Translation": "one metre",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein Zentimeter",
+        "Translation": "one centimetre",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein Meter fünfzehn",
+        "Translation": "one metre fifteen",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "zweihundert Kilometer",
+        "Translation": "two hundred kilometres",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein Quadratmeter",
+        "Translation": "one square metre",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein Grad unter Null/minus ein Grad",
+        "Translation": "one degree below zero/minus one degree",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "vier Grad über Null/plus vier Grad",
+        "Translation": "four degrees above zero/plus four degrees",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein Prozent",
+        "Translation": "one percent",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein Liter",
+        "Translation": "one litre",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein Gramm",
+        "Translation": "one gram",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein Pfund",
+        "Translation": "one pound",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "ein Kilo(gramm)",
+        "Translation": "one kilo(gram)",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "schwarz",
+        "Translation": "black",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "grau",
+        "Translation": "grey",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "blau",
+        "Translation": "blue",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "grün",
+        "Translation": "green",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "weiß",
+        "Translation": "white",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "rot",
+        "Translation": "red",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "gelb",
+        "Translation": "yellow",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "braun",
+        "Translation": "brown",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Norden",
+        "Translation": "north",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Süden",
+        "Translation": "south",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Westen",
+        "Translation": "west",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "der Osten",
+        "Translation": "east",
+        "Example": "",
+        "ExampleTranslation": ""
+    },
+    {
+        "German": "(sich) waschen",
+        "Translation": "to wash",
+        "Example": "Ich wasche mich morgens.",
+        "ExampleTranslation": "I wash in the morning."
+    },
+    {
+        "German": "die Nummer, -n",
+        "Translation": "number",
+        "Example": "Sie haben Zimmer Nummer zwölf.",
+        "ExampleTranslation": "You have room number twelve."
+    }
+]
