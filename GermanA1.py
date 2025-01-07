@@ -41,7 +41,7 @@ async def random_word(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
 # Command: Define
 async def define(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     if not context.args:
-        await update.message.reply_text("Please provide English word or phrase. Usage: /search <word>")
+        await update.message.reply_text("Please provide a German word or phrase. e.g. /define morgen")
         return
 
     search_term = " ".join(context.args).lower()
@@ -50,8 +50,8 @@ async def define(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     ]
 
     if results:
-        response = "Results:\n"
-        for word in results[:5]:  # Limit to 5 results
+        response = "Define Results:\n"
+        for word in results:
             response += (
                 f"- {word['German']}\n"
                 f"     {word['Translation']}\n"
@@ -76,7 +76,7 @@ async def search(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
     if results:
         response = "Search Results:\n"
-        for word in results[:5]:  # Limit to 5 results
+        for word in results:
             response += (
                 f"- {word['German']}\n"
                 f"    {word['Translation']}\n\n"
@@ -92,6 +92,7 @@ def main() -> None:
 
     # Add handlers
     application.add_handler(CommandHandler("start", start))
+    application.add_handler(CommandHandler("help", help))
     application.add_handler(CommandHandler("random", random_word))
     application.add_handler(CommandHandler("define", define))
     application.add_handler(CommandHandler("search", search))
